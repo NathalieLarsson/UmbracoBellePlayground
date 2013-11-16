@@ -1,0 +1,1053 @@
+2013-11-16 00:00:32,361 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 11] Umbraco has no content
+2013-11-16 00:00:49,357 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 10] Umbraco has no content
+2013-11-16 00:05:32,346 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 33] Umbraco has no content
+2013-11-16 00:05:49,357 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 17] Umbraco has no content
+2013-11-16 00:10:33,097 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 51] Umbraco has no content
+2013-11-16 00:10:49,821 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 41] Umbraco has no content
+2013-11-16 00:15:32,414 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 58] Umbraco has no content
+2013-11-16 00:15:49,357 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 53] Umbraco has no content
+2013-11-16 00:20:32,360 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 57] Umbraco has no content
+2013-11-16 00:20:49,345 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 58] Umbraco has no content
+2013-11-16 00:25:32,351 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 49] Umbraco has no content
+2013-11-16 00:25:49,345 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 71] Umbraco has no content
+2013-11-16 00:30:32,348 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 57] Umbraco has no content
+2013-11-16 00:30:49,345 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 71] Umbraco has no content
+2013-11-16 00:35:32,347 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 79] Umbraco has no content
+2013-11-16 00:35:49,597 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 65] Umbraco has no content
+2013-11-16 00:40:32,361 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 74] Umbraco has no content
+2013-11-16 00:40:49,829 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 69] Umbraco has no content
+2013-11-16 00:45:32,346 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 47] Umbraco has no content
+2013-11-16 00:45:49,344 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 65] Umbraco has no content
+2013-11-16 00:50:32,354 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 48] Umbraco has no content
+2013-11-16 00:50:50,042 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 35] Umbraco has no content
+2013-11-16 00:55:32,704 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 68] Umbraco has no content
+2013-11-16 00:55:49,358 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 41] Umbraco has no content
+2013-11-16 01:00:32,348 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 35] Umbraco has no content
+2013-11-16 01:00:49,345 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 17] Umbraco has no content
+2013-11-16 01:05:32,503 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 34] Umbraco has no content
+2013-11-16 01:05:49,345 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 39] Umbraco has no content
+2013-11-16 01:10:33,421 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 51] Umbraco has no content
+2013-11-16 01:10:49,357 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 33] Umbraco has no content
+2013-11-16 01:15:32,362 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 84] Umbraco has no content
+2013-11-16 01:15:49,345 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 51] Umbraco has no content
+2013-11-16 01:20:32,589 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 83] Umbraco has no content
+2013-11-16 01:20:49,345 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 63] Umbraco has no content
+2013-11-16 01:25:32,564 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 55] Umbraco has no content
+2013-11-16 01:25:49,346 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 57] Umbraco has no content
+2013-11-16 01:30:32,347 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 83] Umbraco has no content
+2013-11-16 01:30:49,346 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 55] Umbraco has no content
+2013-11-16 01:35:32,347 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 54] Umbraco has no content
+2013-11-16 01:35:49,348 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 66] Umbraco has no content
+2013-11-16 01:40:32,349 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 77] Umbraco has no content
+2013-11-16 01:40:49,356 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 54] Umbraco has no content
+2013-11-16 01:45:32,352 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 53] Umbraco has no content
+2013-11-16 01:45:49,345 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 72] Umbraco has no content
+2013-11-16 01:50:33,000 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 46] Umbraco has no content
+2013-11-16 01:50:49,839 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 46] Umbraco has no content
+2013-11-16 01:55:32,361 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 31] Umbraco has no content
+2013-11-16 01:55:49,346 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 32] Umbraco has no content
+2013-11-16 02:00:32,346 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 36] Umbraco has no content
+2013-11-16 02:00:49,353 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 33] Umbraco has no content
+2013-11-16 02:05:32,347 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 36] Umbraco has no content
+2013-11-16 02:05:49,345 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 37] Umbraco has no content
+2013-11-16 02:10:32,570 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 36] Umbraco has no content
+2013-11-16 02:10:49,344 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 43] Umbraco has no content
+2013-11-16 02:15:32,360 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 59] Umbraco has no content
+2013-11-16 02:15:49,345 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 62] Umbraco has no content
+2013-11-16 02:20:32,364 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 51] Umbraco has no content
+2013-11-16 02:20:49,711 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 47] Umbraco has no content
+2013-11-16 02:25:32,363 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 61] Umbraco has no content
+2013-11-16 02:25:49,353 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 80] Umbraco has no content
+2013-11-16 02:30:32,347 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 61] Umbraco has no content
+2013-11-16 02:30:49,345 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 51] Umbraco has no content
+2013-11-16 02:35:32,362 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 80] Umbraco has no content
+2013-11-16 02:35:49,346 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 70] Umbraco has no content
+2013-11-16 02:40:32,484 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 70] Umbraco has no content
+2013-11-16 02:40:49,743 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 73] Umbraco has no content
+2013-11-16 02:45:32,583 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 79] Umbraco has no content
+2013-11-16 02:45:49,675 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 80] Umbraco has no content
+2013-11-16 02:50:32,373 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 73] Umbraco has no content
+2013-11-16 02:50:49,796 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 53] Umbraco has no content
+2013-11-16 02:55:32,349 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 80] Umbraco has no content
+2013-11-16 02:55:49,346 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 48] Umbraco has no content
+2013-11-16 03:00:32,347 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 48] Umbraco has no content
+2013-11-16 03:00:49,346 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 41] Umbraco has no content
+2013-11-16 03:05:32,363 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 74] Umbraco has no content
+2013-11-16 03:05:49,358 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 53] Umbraco has no content
+2013-11-16 03:10:32,362 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 23] Umbraco has no content
+2013-11-16 03:10:49,355 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 70] Umbraco has no content
+2013-11-16 03:15:32,362 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 18] Umbraco has no content
+2013-11-16 03:15:49,347 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 53] Umbraco has no content
+2013-11-16 03:20:32,352 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 28] Umbraco has no content
+2013-11-16 03:20:49,357 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 18] Umbraco has no content
+2013-11-16 03:25:32,751 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 27] Umbraco has no content
+2013-11-16 03:25:49,468 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 80] Umbraco has no content
+2013-11-16 03:30:32,345 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 36] Umbraco has no content
+2013-11-16 03:30:49,345 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 36] Umbraco has no content
+2013-11-16 03:35:32,347 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 80] Umbraco has no content
+2013-11-16 03:35:49,345 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 80] Umbraco has no content
+2013-11-16 03:40:32,363 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 57] Umbraco has no content
+2013-11-16 03:40:49,345 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 64] Umbraco has no content
+2013-11-16 03:45:32,346 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 63] Umbraco has no content
+2013-11-16 03:45:49,795 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 63] Umbraco has no content
+2013-11-16 03:50:32,346 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 54] Umbraco has no content
+2013-11-16 03:50:49,351 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 54] Umbraco has no content
+2013-11-16 03:55:32,349 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 12] Umbraco has no content
+2013-11-16 03:55:49,355 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 8] Umbraco has no content
+2013-11-16 04:00:32,347 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 83] Umbraco has no content
+2013-11-16 04:00:49,357 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 30] Umbraco has no content
+2013-11-16 04:05:32,448 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 22] Umbraco has no content
+2013-11-16 04:05:49,345 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 83] Umbraco has no content
+2013-11-16 04:10:32,406 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 34] Umbraco has no content
+2013-11-16 04:10:49,345 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 30] Umbraco has no content
+2013-11-16 04:15:33,454 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 40] Umbraco has no content
+2013-11-16 04:15:49,622 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 40] Umbraco has no content
+2013-11-16 04:20:32,347 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 58] Umbraco has no content
+2013-11-16 04:20:49,356 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 63] Umbraco has no content
+2013-11-16 04:25:32,362 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 63] Umbraco has no content
+2013-11-16 04:25:49,346 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 68] Umbraco has no content
+2013-11-16 04:30:32,348 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 14] Umbraco has no content
+2013-11-16 04:30:49,345 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 55] Umbraco has no content
+2013-11-16 04:35:32,347 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 55] Umbraco has no content
+2013-11-16 04:35:49,355 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 40] Umbraco has no content
+2013-11-16 04:40:32,361 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 40] Umbraco has no content
+2013-11-16 04:40:49,346 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 64] Umbraco has no content
+2013-11-16 04:45:32,361 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 13] Umbraco has no content
+2013-11-16 04:45:49,344 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 64] Umbraco has no content
+2013-11-16 04:50:32,363 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 10] Umbraco has no content
+2013-11-16 04:50:49,345 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 64] Umbraco has no content
+2013-11-16 04:55:32,535 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 63] Umbraco has no content
+2013-11-16 04:55:49,823 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 28] Umbraco has no content
+2013-11-16 05:00:32,348 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 64] Umbraco has no content
+2013-11-16 05:00:49,356 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 13] Umbraco has no content
+2013-11-16 05:05:32,599 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 27] Umbraco has no content
+2013-11-16 05:05:49,343 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 13] Umbraco has no content
+2013-11-16 05:10:32,345 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 23] Umbraco has no content
+2013-11-16 05:10:49,345 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 27] Umbraco has no content
+2013-11-16 05:15:32,354 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 45] Umbraco has no content
+2013-11-16 05:15:49,542 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 49] Umbraco has no content
+2013-11-16 05:20:32,428 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 52] Umbraco has no content
+2013-11-16 05:20:49,784 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 41] Umbraco has no content
+2013-11-16 05:25:32,634 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 52] Umbraco has no content
+2013-11-16 05:25:49,690 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 45] Umbraco has no content
+2013-11-16 05:30:32,852 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 45] Umbraco has no content
+2013-11-16 05:30:49,688 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 65] Umbraco has no content
+2013-11-16 05:35:33,155 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 60] Umbraco has no content
+2013-11-16 05:35:49,536 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 82] Umbraco has no content
+2013-11-16 05:40:32,347 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 52] Umbraco has no content
+2013-11-16 05:40:49,950 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 47] Umbraco has no content
+2013-11-16 05:45:32,347 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 60] Umbraco has no content
+2013-11-16 05:45:49,344 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 52] Umbraco has no content
+2013-11-16 05:50:32,347 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 52] Umbraco has no content
+2013-11-16 05:50:49,359 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 70] Umbraco has no content
+2013-11-16 05:55:32,390 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 48] Umbraco has no content
+2013-11-16 05:55:49,345 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 45] Umbraco has no content
+2013-11-16 06:00:32,346 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 70] Umbraco has no content
+2013-11-16 06:00:49,357 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 50] Umbraco has no content
+2013-11-16 06:05:32,360 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 41] Umbraco has no content
+2013-11-16 06:05:49,357 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 62] Umbraco has no content
+2013-11-16 06:10:32,364 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 62] Umbraco has no content
+2013-11-16 06:10:49,345 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 56] Umbraco has no content
+2013-11-16 06:15:32,362 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 70] Umbraco has no content
+2013-11-16 06:15:49,349 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 18] Umbraco has no content
+2013-11-16 06:20:32,347 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 23] Umbraco has no content
+2013-11-16 06:20:49,344 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 18] Umbraco has no content
+2013-11-16 06:25:32,347 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 70] Umbraco has no content
+2013-11-16 06:25:49,344 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 33] Umbraco has no content
+2013-11-16 06:30:32,347 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 33] Umbraco has no content
+2013-11-16 06:30:49,918 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 41] Umbraco has no content
+2013-11-16 06:35:32,347 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 23] Umbraco has no content
+2013-11-16 06:35:49,345 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 36] Umbraco has no content
+2013-11-16 06:40:32,714 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 33] Umbraco has no content
+2013-11-16 06:40:50,105 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 14] Umbraco has no content
+2013-11-16 06:45:32,362 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 36] Umbraco has no content
+2013-11-16 06:45:49,357 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 33] Umbraco has no content
+2013-11-16 06:50:32,347 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 55] Umbraco has no content
+2013-11-16 06:50:50,046 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 8] Umbraco has no content
+2013-11-16 06:55:32,348 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 23] Umbraco has no content
+2013-11-16 06:55:49,346 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 24] Umbraco has no content
+2013-11-16 07:00:32,345 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 23] Umbraco has no content
+2013-11-16 07:00:49,541 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 38] Umbraco has no content
+2013-11-16 07:05:32,355 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 25] Umbraco has no content
+2013-11-16 07:05:49,352 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 55] Umbraco has no content
+2013-11-16 07:10:32,664 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 25] Umbraco has no content
+2013-11-16 07:10:49,829 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 23] Umbraco has no content
+2013-11-16 07:15:33,345 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 55] Umbraco has no content
+2013-11-16 07:15:49,740 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 55] Umbraco has no content
+2013-11-16 07:20:32,742 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 28] Umbraco has no content
+2013-11-16 07:20:49,894 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 31] Umbraco has no content
+2013-11-16 07:25:32,623 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 36] Umbraco has no content
+2013-11-16 07:25:49,861 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 19] Umbraco has no content
+2013-11-16 07:30:32,345 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 19] Umbraco has no content
+2013-11-16 07:30:49,589 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 23] Umbraco has no content
+2013-11-16 07:35:32,347 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 18] Umbraco has no content
+2013-11-16 07:35:49,346 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 63] Umbraco has no content
+2013-11-16 07:40:32,348 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 42] Umbraco has no content
+2013-11-16 07:40:49,357 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 31] Umbraco has no content
+2013-11-16 07:45:32,349 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 31] Umbraco has no content
+2013-11-16 07:45:49,344 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 53] Umbraco has no content
+2013-11-16 07:50:32,346 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 37] Umbraco has no content
+2013-11-16 07:50:49,344 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 42] Umbraco has no content
+2013-11-16 07:55:33,241 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 73] Umbraco has no content
+2013-11-16 07:55:49,561 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 42] Umbraco has no content
+2013-11-16 08:00:32,345 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 42] Umbraco has no content
+2013-11-16 08:00:49,347 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 73] Umbraco has no content
+2013-11-16 08:05:32,366 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 73] Umbraco has no content
+2013-11-16 08:05:49,345 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 37] Umbraco has no content
+2013-11-16 08:10:32,738 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 67] Umbraco has no content
+2013-11-16 08:10:49,371 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 60] Umbraco has no content
+2013-11-16 08:15:32,483 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 74] Umbraco has no content
+2013-11-16 08:15:49,344 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 73] Umbraco has no content
+2013-11-16 08:20:32,397 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 70] Umbraco has no content
+2013-11-16 08:20:49,355 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 37] Umbraco has no content
+2013-11-16 08:25:32,346 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 37] Umbraco has no content
+2013-11-16 08:25:49,353 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 68] Umbraco has no content
+2013-11-16 08:30:33,074 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 71] Umbraco has no content
+2013-11-16 08:30:49,972 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 40] Umbraco has no content
+2013-11-16 08:35:32,360 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 77] Umbraco has no content
+2013-11-16 08:35:49,353 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 77] Umbraco has no content
+2013-11-16 08:40:32,352 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 40] Umbraco has no content
+2013-11-16 08:40:49,357 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 80] Umbraco has no content
+2013-11-16 08:45:32,357 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 77] Umbraco has no content
+2013-11-16 08:45:49,354 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 68] Umbraco has no content
+2013-11-16 08:50:32,360 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 22] Umbraco has no content
+2013-11-16 08:50:49,345 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 61] Umbraco has no content
+2013-11-16 08:55:32,346 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 12] Umbraco has no content
+2013-11-16 08:55:49,345 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 75] Umbraco has no content
+2013-11-16 09:00:32,361 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 22] Umbraco has no content
+2013-11-16 09:00:49,345 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 22] Umbraco has no content
+2013-11-16 09:05:32,361 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 20] Umbraco has no content
+2013-11-16 09:05:49,346 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 69] Umbraco has no content
+2013-11-16 09:10:32,359 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 20] Umbraco has no content
+2013-11-16 09:10:49,344 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 75] Umbraco has no content
+2013-11-16 09:15:32,362 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 34] Umbraco has no content
+2013-11-16 09:15:49,359 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 77] Umbraco has no content
+2013-11-16 09:20:32,363 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 45] Umbraco has no content
+2013-11-16 09:20:49,347 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 12] Umbraco has no content
+2013-11-16 09:25:32,363 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 79] Umbraco has no content
+2013-11-16 09:25:49,348 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 65] Umbraco has no content
+2013-11-16 09:30:32,750 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 69] Umbraco has no content
+2013-11-16 09:30:49,835 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 77] Umbraco has no content
+2013-11-16 09:35:32,362 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 59] Umbraco has no content
+2013-11-16 09:35:49,348 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 52] Umbraco has no content
+2013-11-16 09:40:32,540 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 12] Umbraco has no content
+2013-11-16 09:40:49,908 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 52] Umbraco has no content
+2013-11-16 09:45:32,977 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 56] Umbraco has no content
+2013-11-16 09:45:49,887 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 12] Umbraco has no content
+2013-11-16 09:50:32,362 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 49] Umbraco has no content
+2013-11-16 09:50:49,344 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 46] Umbraco has no content
+2013-11-16 09:55:32,543 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 49] Umbraco has no content
+2013-11-16 09:55:49,357 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 29] Umbraco has no content
+2013-11-16 10:00:32,346 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 49] Umbraco has no content
+2013-11-16 10:00:49,344 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 12] Umbraco has no content
+2013-11-16 10:05:32,541 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 32] Umbraco has no content
+2013-11-16 10:05:49,929 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 34] Umbraco has no content
+2013-11-16 10:10:32,360 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 13] Umbraco has no content
+2013-11-16 10:10:49,350 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 56] Umbraco has no content
+2013-11-16 10:15:32,354 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 19] Umbraco has no content
+2013-11-16 10:15:49,358 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 34] Umbraco has no content
+2013-11-16 10:20:32,346 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 19] Umbraco has no content
+2013-11-16 10:20:49,356 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 34] Umbraco has no content
+2013-11-16 10:25:32,658 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 81] Umbraco has no content
+2013-11-16 10:25:50,397 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 27] Umbraco has no content
+2013-11-16 10:30:32,841 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 58] Umbraco has no content
+2013-11-16 10:30:49,808 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 19] Umbraco has no content
+2013-11-16 10:35:32,346 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 58] Umbraco has no content
+2013-11-16 10:35:49,800 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 26] Umbraco has no content
+2013-11-16 10:40:32,361 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 32] Umbraco has no content
+2013-11-16 10:40:49,345 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 63] Umbraco has no content
+2013-11-16 10:45:32,347 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 21] Umbraco has no content
+2013-11-16 10:45:49,345 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 26] Umbraco has no content
+2013-11-16 10:50:33,285 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 32] Umbraco has no content
+2013-11-16 10:50:49,639 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 14] Umbraco has no content
+2013-11-16 10:55:32,362 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 10] Umbraco has no content
+2013-11-16 10:55:49,348 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 37] Umbraco has no content
+2013-11-16 11:00:32,344 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 48] Umbraco has no content
+2013-11-16 11:00:49,559 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 10] Umbraco has no content
+2013-11-16 11:05:32,361 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 14] Umbraco has no content
+2013-11-16 11:05:49,346 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 32] Umbraco has no content
+2013-11-16 11:10:32,346 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 74] Umbraco has no content
+2013-11-16 11:10:49,344 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 62] Umbraco has no content
+2013-11-16 11:15:32,359 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 50] Umbraco has no content
+2013-11-16 11:15:49,344 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 48] Umbraco has no content
+2013-11-16 11:16:44,905 [6] INFO  Umbraco.Web.Security.WebSecurity - [Thread 50] User Id: 0 logged in
+2013-11-16 11:20:32,851 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 53] Umbraco has no content
+2013-11-16 11:20:49,344 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 50] Umbraco has no content
+2013-11-16 11:25:32,344 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 74] Umbraco has no content
+2013-11-16 11:25:49,345 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 56] Umbraco has no content
+2013-11-16 11:30:32,344 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 74] Umbraco has no content
+2013-11-16 11:30:49,355 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 74] Umbraco has no content
+2013-11-16 11:35:32,345 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 70] Umbraco has no content
+2013-11-16 11:35:49,832 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 20] Umbraco has no content
+2013-11-16 11:40:32,658 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 70] Umbraco has no content
+2013-11-16 11:40:49,349 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 74] Umbraco has no content
+2013-11-16 11:45:32,346 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 56] Umbraco has no content
+2013-11-16 11:45:49,358 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 45] Umbraco has no content
+2013-11-16 11:50:33,493 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 20] Umbraco has no content
+2013-11-16 11:50:49,356 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 71] Umbraco has no content
+2013-11-16 11:55:32,361 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 66] Umbraco has no content
+2013-11-16 11:55:49,781 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 66] Umbraco has no content
+2013-11-16 12:00:32,347 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 66] Umbraco has no content
+2013-11-16 12:00:49,345 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 67] Umbraco has no content
+2013-11-16 12:05:32,682 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 20] Umbraco has no content
+2013-11-16 12:05:50,032 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 67] Umbraco has no content
+2013-11-16 12:10:33,192 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 70] Umbraco has no content
+2013-11-16 12:10:50,028 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 71] Umbraco has no content
+2013-11-16 12:15:32,540 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 52] Umbraco has no content
+2013-11-16 12:15:49,680 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 67] Umbraco has no content
+2013-11-16 12:20:33,487 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 20] Umbraco has no content
+2013-11-16 12:20:49,344 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 52] Umbraco has no content
+2013-11-16 12:25:32,360 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 66] Umbraco has no content
+2013-11-16 12:25:49,350 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 66] Umbraco has no content
+2013-11-16 12:30:33,440 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 59] Umbraco has no content
+2013-11-16 12:30:49,604 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 42] Umbraco has no content
+2013-11-16 12:35:32,387 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 39] Umbraco has no content
+2013-11-16 12:35:50,140 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 21] Umbraco has no content
+2013-11-16 12:40:32,360 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 67] Umbraco has no content
+2013-11-16 12:40:49,345 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 62] Umbraco has no content
+2013-11-16 12:45:32,346 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 39] Umbraco has no content
+2013-11-16 12:45:49,353 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 78] Umbraco has no content
+2013-11-16 12:50:32,483 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 78] Umbraco has no content
+2013-11-16 12:50:49,346 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 32] Umbraco has no content
+2013-11-16 12:55:32,354 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 19] Umbraco has no content
+2013-11-16 12:55:49,356 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 26] Umbraco has no content
+2013-11-16 13:00:33,481 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 54] Umbraco has no content
+2013-11-16 13:00:49,346 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 34] Umbraco has no content
+2013-11-16 13:05:32,769 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 39] Umbraco has no content
+2013-11-16 13:05:49,344 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 26] Umbraco has no content
+2013-11-16 13:10:32,355 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 15] Umbraco has no content
+2013-11-16 13:10:49,355 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 34] Umbraco has no content
+2013-11-16 13:15:32,379 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 34] Umbraco has no content
+2013-11-16 13:15:49,976 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 51] Umbraco has no content
+2013-11-16 13:20:32,346 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 24] Umbraco has no content
+2013-11-16 13:20:49,356 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 51] Umbraco has no content
+2013-11-16 13:25:32,361 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 49] Umbraco has no content
+2013-11-16 13:25:49,349 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 49] Umbraco has no content
+2013-11-16 13:30:32,604 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 49] Umbraco has no content
+2013-11-16 13:30:50,122 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 49] Umbraco has no content
+2013-11-16 13:35:33,159 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 80] Umbraco has no content
+2013-11-16 13:35:49,748 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 34] Umbraco has no content
+2013-11-16 13:40:33,239 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 80] Umbraco has no content
+2013-11-16 13:40:49,442 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 40] Umbraco has no content
+2013-11-16 13:45:32,357 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 40] Umbraco has no content
+2013-11-16 13:45:49,357 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 64] Umbraco has no content
+2013-11-16 13:50:33,118 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 81] Umbraco has no content
+2013-11-16 13:50:49,537 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 68] Umbraco has no content
+2013-11-16 13:55:32,363 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 77] Umbraco has no content
+2013-11-16 13:55:49,356 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 40] Umbraco has no content
+2013-11-16 14:00:33,256 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 77] Umbraco has no content
+2013-11-16 14:00:49,576 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 49] Umbraco has no content
+2013-11-16 14:05:32,799 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 68] Umbraco has no content
+2013-11-16 14:05:49,356 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 81] Umbraco has no content
+2013-11-16 14:10:32,362 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 15] Umbraco has no content
+2013-11-16 14:10:49,344 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 27] Umbraco has no content
+2013-11-16 14:15:32,626 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 63] Umbraco has no content
+2013-11-16 14:15:49,345 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 77] Umbraco has no content
+2013-11-16 14:20:32,355 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 58] Umbraco has no content
+2013-11-16 14:20:49,356 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 16] Umbraco has no content
+2013-11-16 14:25:32,346 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 16] Umbraco has no content
+2013-11-16 14:25:49,501 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 26] Umbraco has no content
+2013-11-16 14:30:32,812 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 21] Umbraco has no content
+2013-11-16 14:30:49,986 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 16] Umbraco has no content
+2013-11-16 14:35:32,361 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 49] Umbraco has no content
+2013-11-16 14:35:49,345 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 26] Umbraco has no content
+2013-11-16 14:40:32,347 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 40] Umbraco has no content
+2013-11-16 14:40:49,345 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 42] Umbraco has no content
+2013-11-16 14:45:32,351 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 43] Umbraco has no content
+2013-11-16 14:45:49,344 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 40] Umbraco has no content
+2013-11-16 14:50:32,689 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 53] Umbraco has no content
+2013-11-16 14:50:49,355 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 53] Umbraco has no content
+2013-11-16 14:55:32,537 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 18] Umbraco has no content
+2013-11-16 14:55:50,070 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 53] Umbraco has no content
+2013-11-16 15:00:32,347 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 65] Umbraco has no content
+2013-11-16 15:00:49,357 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 65] Umbraco has no content
+2013-11-16 15:05:32,346 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 73] Umbraco has no content
+2013-11-16 15:05:49,523 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 43] Umbraco has no content
+2013-11-16 15:10:33,030 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 65] Umbraco has no content
+2013-11-16 15:10:49,359 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 57] Umbraco has no content
+2013-11-16 15:15:32,346 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 73] Umbraco has no content
+2013-11-16 15:15:49,345 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 41] Umbraco has no content
+2013-11-16 15:20:32,376 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 41] Umbraco has no content
+2013-11-16 15:20:49,727 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 30] Umbraco has no content
+2013-11-16 15:25:32,577 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 70] Umbraco has no content
+2013-11-16 15:25:49,355 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 73] Umbraco has no content
+2013-11-16 15:30:32,345 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 30] Umbraco has no content
+2013-11-16 15:30:49,345 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 65] Umbraco has no content
+2013-11-16 15:35:32,389 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 39] Umbraco has no content
+2013-11-16 15:35:50,025 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 42] Umbraco has no content
+2013-11-16 15:40:32,346 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 10] Umbraco has no content
+2013-11-16 15:40:49,345 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 10] Umbraco has no content
+2013-11-16 15:45:32,361 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 10] Umbraco has no content
+2013-11-16 15:45:49,355 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 42] Umbraco has no content
+2013-11-16 15:50:32,344 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 32] Umbraco has no content
+2013-11-16 15:50:49,345 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 10] Umbraco has no content
+2013-11-16 15:55:32,347 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 42] Umbraco has no content
+2013-11-16 15:55:49,486 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 70] Umbraco has no content
+2013-11-16 16:00:32,345 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 54] Umbraco has no content
+2013-11-16 16:00:49,351 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 54] Umbraco has no content
+2013-11-16 16:05:32,360 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 54] Umbraco has no content
+2013-11-16 16:05:49,347 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 54] Umbraco has no content
+2013-11-16 16:10:32,739 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 19] Umbraco has no content
+2013-11-16 16:10:49,358 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 32] Umbraco has no content
+2013-11-16 16:15:32,425 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 58] Umbraco has no content
+2013-11-16 16:15:49,346 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 75] Umbraco has no content
+2013-11-16 16:20:32,349 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 75] Umbraco has no content
+2013-11-16 16:20:49,345 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 32] Umbraco has no content
+2013-11-16 16:25:32,351 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 42] Umbraco has no content
+2013-11-16 16:25:49,344 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 35] Umbraco has no content
+2013-11-16 16:30:32,347 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 42] Umbraco has no content
+2013-11-16 16:30:49,348 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 54] Umbraco has no content
+2013-11-16 16:35:32,768 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 15] Umbraco has no content
+2013-11-16 16:35:49,347 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 35] Umbraco has no content
+2013-11-16 16:40:49,069 [6] INFO  umbraco.BusinessLogic.Log - [Thread 51] Log scrubbed.  Removed all items older than 2013-09-17 16:40:49
+2013-11-16 16:40:49,070 [6] INFO  Umbraco.Core.UmbracoApplicationBase - [Thread 51] Application shutdown. Reason: ConfigurationChange
+2013-11-16 16:42:33,103 [54] INFO  Umbraco.Core.PluginManager - [Thread 33] Determining hash of code files on disk
+2013-11-16 16:42:33,108 [54] INFO  Umbraco.Core.PluginManager - [Thread 33] Hash determined (took 3ms)
+2013-11-16 16:42:33,112 [54] INFO  Umbraco.Core.PluginManager - [Thread 33] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+2013-11-16 16:42:33,245 [54] INFO  Umbraco.Core.PluginManager - [Thread 33] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 28 (took 132ms)
+2013-11-16 16:42:33,282 [54] INFO  Umbraco.Core.PluginManager - [Thread 33] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+2013-11-16 16:42:33,285 [54] INFO  Umbraco.Core.PluginManager - [Thread 33] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 2ms)
+2013-11-16 16:42:33,285 [54] INFO  Umbraco.Core.PluginManager - [Thread 33] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyValueConverter
+2013-11-16 16:42:33,288 [54] INFO  Umbraco.Core.PluginManager - [Thread 33] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyValueConverter, found 13 (took 3ms)
+2013-11-16 16:42:33,294 [54] INFO  Umbraco.Core.PluginManager - [Thread 33] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+2013-11-16 16:42:33,296 [54] INFO  Umbraco.Core.PluginManager - [Thread 33] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 4 (took 2ms)
+2013-11-16 16:42:33,296 [54] INFO  Umbraco.Core.PluginManager - [Thread 33] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+2013-11-16 16:42:33,299 [54] INFO  Umbraco.Core.PluginManager - [Thread 33] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 28 (took 2ms)
+2013-11-16 16:42:33,300 [54] INFO  Umbraco.Core.PluginManager - [Thread 33] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+2013-11-16 16:42:33,303 [54] INFO  Umbraco.Core.PluginManager - [Thread 33] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 2ms)
+2013-11-16 16:42:33,303 [54] INFO  Umbraco.Core.PluginManager - [Thread 33] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+2013-11-16 16:42:33,306 [54] INFO  Umbraco.Core.PluginManager - [Thread 33] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 3ms)
+2013-11-16 16:42:33,587 [54] INFO  Umbraco.Core.PluginManager - [Thread 33] Starting resolution types of umbraco.interfaces.IApplication
+2013-11-16 16:42:33,593 [54] INFO  Umbraco.Core.PluginManager - [Thread 33] Completed resolution of types of umbraco.interfaces.IApplication, found 7 (took 5ms)
+2013-11-16 16:42:33,623 [54] INFO  Umbraco.Core.PluginManager - [Thread 33] Starting resolution types of Umbraco.Web.Trees.TreeController
+2013-11-16 16:42:33,626 [54] INFO  Umbraco.Core.PluginManager - [Thread 33] Completed resolution of types of Umbraco.Web.Trees.TreeController, found 4 (took 2ms)
+2013-11-16 16:42:33,630 [54] INFO  Umbraco.Core.PluginManager - [Thread 33] Starting resolution types of umbraco.interfaces.ITree
+2013-11-16 16:42:33,634 [54] INFO  Umbraco.Core.PluginManager - [Thread 33] Completed resolution of types of umbraco.interfaces.ITree, found 19 (took 3ms)
+2013-11-16 16:42:33,638 [54] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 33] Initializing Examine and binding to business logic events
+2013-11-16 16:42:33,686 [54] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 33] Adding examine event handlers for index providers: 3
+2013-11-16 16:42:34,488 [54] INFO  Umbraco.Core.PluginManager - [Thread 66] Starting resolution types of Umbraco.Web.Trees.TreeController
+2013-11-16 16:42:34,488 [54] INFO  Umbraco.Core.PluginManager - [Thread 66] Completed resolution of types of Umbraco.Web.Trees.TreeController, found 4 (took 0ms)
+2013-11-16 16:42:34,561 [54] ERROR Umbraco.Core.Manifest.ManifestParser - [Thread 79] An error occurred parsing manifest with contents: {
+    propertyEditors: [
+        {
+        alias: "Demo.MyFirstProperty",
+        name: "My First Property",
+        editor: {
+        view: "~/App_Plugins/MyFirstProperty/myfirstproperty.html"
+        },
+        prevalues: {
+            fields: [
+                {
+                    label: "Number of chars",
+                    description: "Enter the number of chars to limit on",
+                    key: "limit",
+                    view: "requiredfield",
+                    validation: [
+                        {
+                            type: "Required" 
+                        }                        
+                    ]
+                }
+            ]
+        }
+        }
+    ]
+    ,
+    javascript: [
+        "~/App_Plugins/MyFirstProperty/myfirstproperty.controller.js""
+    ]
+}
+Newtonsoft.Json.JsonReaderException: After parsing a value an unexpected character was encountered: ". Path 'javascript[0]', line 28, position 70.
+   at Newtonsoft.Json.JsonTextReader.ParsePostValue()
+   at Newtonsoft.Json.JsonTextReader.ReadInternal()
+   at Newtonsoft.Json.JsonTextReader.Read()
+   at Newtonsoft.Json.JsonWriter.WriteToken(JsonReader reader, Int32 initialDepth, Boolean writeChildren, Boolean writeDateConstructorAsDate)
+   at Newtonsoft.Json.JsonWriter.WriteToken(JsonReader reader, Boolean writeChildren, Boolean writeDateConstructorAsDate)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateJToken(JsonReader reader, JsonContract contract)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at Umbraco.Core.Manifest.ManifestParser.CreateManifests(String[] manifestFileContents) in f:\TeamCity\buildAgent\work\e1a0ddf7a1349eaf\src\Umbraco.Core\Manifest\ManifestParser.cs:line 123
+2013-11-16 16:42:34,567 [54] ERROR Umbraco.Core.Manifest.ManifestParser - [Thread 79] An error occurred parsing manifest with contents: {
+    propertyEditors: [
+        {
+        alias: "Demo.MyFirstProperty",
+        name: "My First Property",
+        editor: {
+        view: "~/App_Plugins/MyFirstProperty/myfirstproperty.html"
+        },
+        prevalues: {
+            fields: [
+                {
+                    label: "Number of chars",
+                    description: "Enter the number of chars to limit on",
+                    key: "limit",
+                    view: "requiredfield",
+                    validation: [
+                        {
+                            type: "Required" 
+                        }                        
+                    ]
+                }
+            ]
+        }
+        }
+    ]
+    ,
+    javascript: [
+        "~/App_Plugins/MyFirstProperty/myfirstproperty.controller.js""
+    ]
+}
+Newtonsoft.Json.JsonReaderException: After parsing a value an unexpected character was encountered: ". Path 'javascript[0]', line 28, position 70.
+   at Newtonsoft.Json.JsonTextReader.ParsePostValue()
+   at Newtonsoft.Json.JsonTextReader.ReadInternal()
+   at Newtonsoft.Json.JsonTextReader.Read()
+   at Newtonsoft.Json.JsonWriter.WriteToken(JsonReader reader, Int32 initialDepth, Boolean writeChildren, Boolean writeDateConstructorAsDate)
+   at Newtonsoft.Json.JsonWriter.WriteToken(JsonReader reader, Boolean writeChildren, Boolean writeDateConstructorAsDate)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateJToken(JsonReader reader, JsonContract contract)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at Umbraco.Core.Manifest.ManifestParser.CreateManifests(String[] manifestFileContents) in f:\TeamCity\buildAgent\work\e1a0ddf7a1349eaf\src\Umbraco.Core\Manifest\ManifestParser.cs:line 123
+2013-11-16 16:42:40,855 [54] INFO  Umbraco.Core.PluginManager - [Thread 15] Starting resolution types of Umbraco.Core.Persistence.Mappers.BaseMapper
+2013-11-16 16:42:41,575 [54] INFO  Umbraco.Core.PluginManager - [Thread 15] Completed resolution of types of Umbraco.Core.Persistence.Mappers.BaseMapper, found 20 (took 718ms)
+2013-11-16 16:42:42,028 [54] INFO  Umbraco.Web.Security.WebSecurity - [Thread 15] User Id: 0 logged in
+2013-11-16 16:42:42,128 [54] INFO  Umbraco.Core.PluginManager - [Thread 72] Starting resolution types of umbraco.interfaces.ITree
+2013-11-16 16:42:42,134 [54] INFO  Umbraco.Core.PluginManager - [Thread 72] Completed resolution of types of umbraco.interfaces.ITree, found 35 (took 5ms)
+2013-11-16 16:42:49,528 [54] INFO  Umbraco.Core.PluginManager - [Thread 79] Starting resolution types of Umbraco.Core.PropertyEditors.PropertyEditor
+2013-11-16 16:42:49,538 [54] INFO  Umbraco.Core.PluginManager - [Thread 79] Completed resolution of types of Umbraco.Core.PropertyEditors.PropertyEditor, found 33 (took 10ms)
+2013-11-16 16:42:49,545 [54] ERROR Umbraco.Core.Manifest.ManifestParser - [Thread 79] An error occurred parsing manifest with contents: {
+    propertyEditors: [
+        {
+        alias: "Demo.MyFirstProperty",
+        name: "My First Property",
+        editor: {
+        view: "~/App_Plugins/MyFirstProperty/myfirstproperty.html"
+        },
+        prevalues: {
+            fields: [
+                {
+                    label: "Number of chars",
+                    description: "Enter the number of chars to limit on",
+                    key: "limit",
+                    view: "requiredfield",
+                    validation: [
+                        {
+                            type: "Required" 
+                        }                        
+                    ]
+                }
+            ]
+        }
+        }
+    ]
+    ,
+    javascript: [
+        "~/App_Plugins/MyFirstProperty/myfirstproperty.controller.js""
+    ]
+}
+Newtonsoft.Json.JsonReaderException: After parsing a value an unexpected character was encountered: ". Path 'javascript[0]', line 28, position 70.
+   at Newtonsoft.Json.JsonTextReader.ParsePostValue()
+   at Newtonsoft.Json.JsonTextReader.ReadInternal()
+   at Newtonsoft.Json.JsonTextReader.Read()
+   at Newtonsoft.Json.JsonWriter.WriteToken(JsonReader reader, Int32 initialDepth, Boolean writeChildren, Boolean writeDateConstructorAsDate)
+   at Newtonsoft.Json.JsonWriter.WriteToken(JsonReader reader, Boolean writeChildren, Boolean writeDateConstructorAsDate)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateJToken(JsonReader reader, JsonContract contract)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at Umbraco.Core.Manifest.ManifestParser.CreateManifests(String[] manifestFileContents) in f:\TeamCity\buildAgent\work\e1a0ddf7a1349eaf\src\Umbraco.Core\Manifest\ManifestParser.cs:line 123
+2013-11-16 16:43:41,356 [54] INFO  umbraco.BusinessLogic.Log - [Thread 72] Log scrubbed.  Removed all items older than 2013-09-17 16:43:41
+2013-11-16 16:43:41,357 [54] INFO  Umbraco.Core.UmbracoApplicationBase - [Thread 72] Application shutdown. Reason: ConfigurationChange
+2013-11-16 16:43:52,036 [54] INFO  Umbraco.Core.PluginManager - [Thread 44] Determining hash of code files on disk
+2013-11-16 16:43:52,045 [54] INFO  Umbraco.Core.PluginManager - [Thread 44] Hash determined (took 5ms)
+2013-11-16 16:43:52,050 [54] INFO  Umbraco.Core.PluginManager - [Thread 44] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+2013-11-16 16:43:52,198 [54] INFO  Umbraco.Core.PluginManager - [Thread 44] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 28 (took 147ms)
+2013-11-16 16:43:52,237 [54] INFO  Umbraco.Core.PluginManager - [Thread 44] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+2013-11-16 16:43:52,241 [54] INFO  Umbraco.Core.PluginManager - [Thread 44] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 3ms)
+2013-11-16 16:43:52,242 [54] INFO  Umbraco.Core.PluginManager - [Thread 44] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyValueConverter
+2013-11-16 16:43:52,247 [54] INFO  Umbraco.Core.PluginManager - [Thread 44] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyValueConverter, found 13 (took 5ms)
+2013-11-16 16:43:52,252 [54] INFO  Umbraco.Core.PluginManager - [Thread 44] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+2013-11-16 16:43:52,254 [54] INFO  Umbraco.Core.PluginManager - [Thread 44] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 4 (took 2ms)
+2013-11-16 16:43:52,255 [54] INFO  Umbraco.Core.PluginManager - [Thread 44] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+2013-11-16 16:43:52,257 [54] INFO  Umbraco.Core.PluginManager - [Thread 44] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 28 (took 2ms)
+2013-11-16 16:43:52,259 [54] INFO  Umbraco.Core.PluginManager - [Thread 44] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+2013-11-16 16:43:52,262 [54] INFO  Umbraco.Core.PluginManager - [Thread 44] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 3ms)
+2013-11-16 16:43:52,262 [54] INFO  Umbraco.Core.PluginManager - [Thread 44] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+2013-11-16 16:43:52,267 [54] INFO  Umbraco.Core.PluginManager - [Thread 44] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 4ms)
+2013-11-16 16:43:52,563 [54] INFO  Umbraco.Core.PluginManager - [Thread 44] Starting resolution types of umbraco.interfaces.IApplication
+2013-11-16 16:43:52,569 [54] INFO  Umbraco.Core.PluginManager - [Thread 44] Completed resolution of types of umbraco.interfaces.IApplication, found 7 (took 6ms)
+2013-11-16 16:43:52,607 [54] INFO  Umbraco.Core.PluginManager - [Thread 44] Starting resolution types of Umbraco.Web.Trees.TreeController
+2013-11-16 16:43:52,611 [54] INFO  Umbraco.Core.PluginManager - [Thread 44] Completed resolution of types of Umbraco.Web.Trees.TreeController, found 4 (took 3ms)
+2013-11-16 16:43:52,615 [54] INFO  Umbraco.Core.PluginManager - [Thread 44] Starting resolution types of umbraco.interfaces.ITree
+2013-11-16 16:43:52,619 [54] INFO  Umbraco.Core.PluginManager - [Thread 44] Completed resolution of types of umbraco.interfaces.ITree, found 19 (took 4ms)
+2013-11-16 16:43:52,625 [54] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 44] Initializing Examine and binding to business logic events
+2013-11-16 16:43:52,678 [54] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 44] Adding examine event handlers for index providers: 3
+2013-11-16 16:43:53,036 [54] INFO  Umbraco.Core.PluginManager - [Thread 22] Starting resolution types of Umbraco.Web.Trees.TreeController
+2013-11-16 16:43:53,036 [54] INFO  Umbraco.Core.PluginManager - [Thread 22] Completed resolution of types of Umbraco.Web.Trees.TreeController, found 4 (took 0ms)
+2013-11-16 16:43:53,090 [54] ERROR Umbraco.Core.Manifest.ManifestParser - [Thread 15] An error occurred parsing manifest with contents: {
+    propertyEditors: [
+        {
+        alias: "Demo.MyFirstProperty",
+        name: "My First Property",
+        editor: {
+        view: "~/App_Plugins/MyFirstProperty/myfirstproperty.html"
+        },
+        prevalues: {
+            fields: [
+                {
+                    label: "Number of chars",
+                    description: "Enter the number of chars to limit on",
+                    key: "limit",
+                    view: "requiredfield",
+                    validation: [
+                        {
+                            type: "Required" 
+                        }                        
+                    ]
+                }
+            ]
+        }
+        }
+    ]
+    ,
+    javascript: [
+        "~/App_Plugins/MyFirstProperty/myfirstproperty.controller.js""
+    ]
+}
+Newtonsoft.Json.JsonReaderException: After parsing a value an unexpected character was encountered: ". Path 'javascript[0]', line 28, position 70.
+   at Newtonsoft.Json.JsonTextReader.ParsePostValue()
+   at Newtonsoft.Json.JsonTextReader.ReadInternal()
+   at Newtonsoft.Json.JsonTextReader.Read()
+   at Newtonsoft.Json.JsonWriter.WriteToken(JsonReader reader, Int32 initialDepth, Boolean writeChildren, Boolean writeDateConstructorAsDate)
+   at Newtonsoft.Json.JsonWriter.WriteToken(JsonReader reader, Boolean writeChildren, Boolean writeDateConstructorAsDate)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateJToken(JsonReader reader, JsonContract contract)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at Umbraco.Core.Manifest.ManifestParser.CreateManifests(String[] manifestFileContents) in f:\TeamCity\buildAgent\work\e1a0ddf7a1349eaf\src\Umbraco.Core\Manifest\ManifestParser.cs:line 123
+2013-11-16 16:43:53,100 [54] ERROR Umbraco.Core.Manifest.ManifestParser - [Thread 15] An error occurred parsing manifest with contents: {
+    propertyEditors: [
+        {
+        alias: "Demo.MyFirstProperty",
+        name: "My First Property",
+        editor: {
+        view: "~/App_Plugins/MyFirstProperty/myfirstproperty.html"
+        },
+        prevalues: {
+            fields: [
+                {
+                    label: "Number of chars",
+                    description: "Enter the number of chars to limit on",
+                    key: "limit",
+                    view: "requiredfield",
+                    validation: [
+                        {
+                            type: "Required" 
+                        }                        
+                    ]
+                }
+            ]
+        }
+        }
+    ]
+    ,
+    javascript: [
+        "~/App_Plugins/MyFirstProperty/myfirstproperty.controller.js""
+    ]
+}
+Newtonsoft.Json.JsonReaderException: After parsing a value an unexpected character was encountered: ". Path 'javascript[0]', line 28, position 70.
+   at Newtonsoft.Json.JsonTextReader.ParsePostValue()
+   at Newtonsoft.Json.JsonTextReader.ReadInternal()
+   at Newtonsoft.Json.JsonTextReader.Read()
+   at Newtonsoft.Json.JsonWriter.WriteToken(JsonReader reader, Int32 initialDepth, Boolean writeChildren, Boolean writeDateConstructorAsDate)
+   at Newtonsoft.Json.JsonWriter.WriteToken(JsonReader reader, Boolean writeChildren, Boolean writeDateConstructorAsDate)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateJToken(JsonReader reader, JsonContract contract)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at Umbraco.Core.Manifest.ManifestParser.CreateManifests(String[] manifestFileContents) in f:\TeamCity\buildAgent\work\e1a0ddf7a1349eaf\src\Umbraco.Core\Manifest\ManifestParser.cs:line 123
+2013-11-16 16:43:53,796 [54] INFO  Umbraco.Core.PluginManager - [Thread 69] Starting resolution types of Umbraco.Core.PropertyEditors.PropertyEditor
+2013-11-16 16:43:53,812 [54] INFO  Umbraco.Core.PluginManager - [Thread 69] Completed resolution of types of Umbraco.Core.PropertyEditors.PropertyEditor, found 33 (took 15ms)
+2013-11-16 16:43:53,820 [54] ERROR Umbraco.Core.Manifest.ManifestParser - [Thread 69] An error occurred parsing manifest with contents: {
+    propertyEditors: [
+        {
+        alias: "Demo.MyFirstProperty",
+        name: "My First Property",
+        editor: {
+        view: "~/App_Plugins/MyFirstProperty/myfirstproperty.html"
+        },
+        prevalues: {
+            fields: [
+                {
+                    label: "Number of chars",
+                    description: "Enter the number of chars to limit on",
+                    key: "limit",
+                    view: "requiredfield",
+                    validation: [
+                        {
+                            type: "Required" 
+                        }                        
+                    ]
+                }
+            ]
+        }
+        }
+    ]
+    ,
+    javascript: [
+        "~/App_Plugins/MyFirstProperty/myfirstproperty.controller.js""
+    ]
+}
+Newtonsoft.Json.JsonReaderException: After parsing a value an unexpected character was encountered: ". Path 'javascript[0]', line 28, position 70.
+   at Newtonsoft.Json.JsonTextReader.ParsePostValue()
+   at Newtonsoft.Json.JsonTextReader.ReadInternal()
+   at Newtonsoft.Json.JsonTextReader.Read()
+   at Newtonsoft.Json.JsonWriter.WriteToken(JsonReader reader, Int32 initialDepth, Boolean writeChildren, Boolean writeDateConstructorAsDate)
+   at Newtonsoft.Json.JsonWriter.WriteToken(JsonReader reader, Boolean writeChildren, Boolean writeDateConstructorAsDate)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateJToken(JsonReader reader, JsonContract contract)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at Umbraco.Core.Manifest.ManifestParser.CreateManifests(String[] manifestFileContents) in f:\TeamCity\buildAgent\work\e1a0ddf7a1349eaf\src\Umbraco.Core\Manifest\ManifestParser.cs:line 123
+2013-11-16 16:43:53,865 [54] INFO  Umbraco.Core.PluginManager - [Thread 55] Starting resolution types of umbraco.interfaces.ITree
+2013-11-16 16:43:53,871 [54] INFO  Umbraco.Core.PluginManager - [Thread 55] Completed resolution of types of umbraco.interfaces.ITree, found 35 (took 5ms)
+2013-11-16 16:44:35,714 [54] INFO  umbraco.BusinessLogic.Log - [Thread 75] Log scrubbed.  Removed all items older than 2013-09-17 16:44:35
+2013-11-16 16:44:35,715 [54] INFO  Umbraco.Core.UmbracoApplicationBase - [Thread 75] Application shutdown. Reason: BinDirChangeOrDirectoryRename
+2013-11-16 16:44:56,624 [25] INFO  Umbraco.Core.PluginManager - [Thread 68] Determining hash of code files on disk
+2013-11-16 16:44:56,629 [25] INFO  Umbraco.Core.PluginManager - [Thread 68] Hash determined (took 3ms)
+2013-11-16 16:44:56,633 [25] INFO  Umbraco.Core.PluginManager - [Thread 68] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+2013-11-16 16:44:56,769 [25] INFO  Umbraco.Core.PluginManager - [Thread 68] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 28 (took 134ms)
+2013-11-16 16:44:56,806 [25] INFO  Umbraco.Core.PluginManager - [Thread 68] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+2013-11-16 16:44:56,809 [25] INFO  Umbraco.Core.PluginManager - [Thread 68] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 2ms)
+2013-11-16 16:44:56,809 [25] INFO  Umbraco.Core.PluginManager - [Thread 68] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyValueConverter
+2013-11-16 16:44:56,813 [25] INFO  Umbraco.Core.PluginManager - [Thread 68] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyValueConverter, found 13 (took 3ms)
+2013-11-16 16:44:56,819 [25] INFO  Umbraco.Core.PluginManager - [Thread 68] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+2013-11-16 16:44:56,822 [25] INFO  Umbraco.Core.PluginManager - [Thread 68] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 4 (took 2ms)
+2013-11-16 16:44:56,822 [25] INFO  Umbraco.Core.PluginManager - [Thread 68] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+2013-11-16 16:44:56,825 [25] INFO  Umbraco.Core.PluginManager - [Thread 68] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 28 (took 2ms)
+2013-11-16 16:44:56,826 [25] INFO  Umbraco.Core.PluginManager - [Thread 68] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+2013-11-16 16:44:56,829 [25] INFO  Umbraco.Core.PluginManager - [Thread 68] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 3ms)
+2013-11-16 16:44:56,829 [25] INFO  Umbraco.Core.PluginManager - [Thread 68] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+2013-11-16 16:44:56,832 [25] INFO  Umbraco.Core.PluginManager - [Thread 68] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 2ms)
+2013-11-16 16:44:57,161 [25] INFO  Umbraco.Core.PluginManager - [Thread 68] Starting resolution types of Umbraco.Web.Trees.TreeController
+2013-11-16 16:44:57,166 [25] INFO  Umbraco.Core.PluginManager - [Thread 68] Completed resolution of types of Umbraco.Web.Trees.TreeController, found 4 (took 3ms)
+2013-11-16 16:44:57,173 [25] INFO  Umbraco.Core.PluginManager - [Thread 68] Starting resolution types of umbraco.interfaces.ITree
+2013-11-16 16:44:57,177 [25] INFO  Umbraco.Core.PluginManager - [Thread 68] Completed resolution of types of umbraco.interfaces.ITree, found 19 (took 4ms)
+2013-11-16 16:44:57,183 [25] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 68] Initializing Examine and binding to business logic events
+2013-11-16 16:44:57,233 [25] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 68] Adding examine event handlers for index providers: 3
+2013-11-16 16:44:57,236 [25] INFO  Umbraco.Core.PluginManager - [Thread 68] Starting resolution types of umbraco.interfaces.IApplication
+2013-11-16 16:44:57,241 [25] INFO  Umbraco.Core.PluginManager - [Thread 68] Completed resolution of types of umbraco.interfaces.IApplication, found 7 (took 5ms)
+2013-11-16 16:44:58,256 [25] INFO  Umbraco.Core.PluginManager - [Thread 66] Starting resolution types of Umbraco.Web.Trees.TreeController
+2013-11-16 16:44:58,256 [25] INFO  Umbraco.Core.PluginManager - [Thread 66] Completed resolution of types of Umbraco.Web.Trees.TreeController, found 4 (took 0ms)
+2013-11-16 16:44:58,317 [25] ERROR Umbraco.Core.Manifest.ManifestParser - [Thread 41] An error occurred parsing manifest with contents: {
+    propertyEditors: [
+        {
+        alias: "Demo.MyFirstProperty",
+        name: "My First Property",
+        editor: {
+        view: "~/App_Plugins/MyFirstProperty/myfirstproperty.html"
+        },
+        prevalues: {
+            fields: [
+                {
+                    label: "Number of chars",
+                    description: "Enter the number of chars to limit on",
+                    key: "limit",
+                    view: "requiredfield",
+                    validation: [
+                        {
+                            type: "Required" 
+                        }                        
+                    ]
+                }
+            ]
+        }
+        }
+    ]
+    ,
+    javascript: [
+        "~/App_Plugins/MyFirstProperty/myfirstproperty.controller.js""
+    ]
+}
+Newtonsoft.Json.JsonReaderException: After parsing a value an unexpected character was encountered: ". Path 'javascript[0]', line 28, position 70.
+   at Newtonsoft.Json.JsonTextReader.ParsePostValue()
+   at Newtonsoft.Json.JsonTextReader.ReadInternal()
+   at Newtonsoft.Json.JsonTextReader.Read()
+   at Newtonsoft.Json.JsonWriter.WriteToken(JsonReader reader, Int32 initialDepth, Boolean writeChildren, Boolean writeDateConstructorAsDate)
+   at Newtonsoft.Json.JsonWriter.WriteToken(JsonReader reader, Boolean writeChildren, Boolean writeDateConstructorAsDate)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateJToken(JsonReader reader, JsonContract contract)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at Umbraco.Core.Manifest.ManifestParser.CreateManifests(String[] manifestFileContents) in f:\TeamCity\buildAgent\work\e1a0ddf7a1349eaf\src\Umbraco.Core\Manifest\ManifestParser.cs:line 123
+2013-11-16 16:44:58,326 [25] ERROR Umbraco.Core.Manifest.ManifestParser - [Thread 41] An error occurred parsing manifest with contents: {
+    propertyEditors: [
+        {
+        alias: "Demo.MyFirstProperty",
+        name: "My First Property",
+        editor: {
+        view: "~/App_Plugins/MyFirstProperty/myfirstproperty.html"
+        },
+        prevalues: {
+            fields: [
+                {
+                    label: "Number of chars",
+                    description: "Enter the number of chars to limit on",
+                    key: "limit",
+                    view: "requiredfield",
+                    validation: [
+                        {
+                            type: "Required" 
+                        }                        
+                    ]
+                }
+            ]
+        }
+        }
+    ]
+    ,
+    javascript: [
+        "~/App_Plugins/MyFirstProperty/myfirstproperty.controller.js""
+    ]
+}
+Newtonsoft.Json.JsonReaderException: After parsing a value an unexpected character was encountered: ". Path 'javascript[0]', line 28, position 70.
+   at Newtonsoft.Json.JsonTextReader.ParsePostValue()
+   at Newtonsoft.Json.JsonTextReader.ReadInternal()
+   at Newtonsoft.Json.JsonTextReader.Read()
+   at Newtonsoft.Json.JsonWriter.WriteToken(JsonReader reader, Int32 initialDepth, Boolean writeChildren, Boolean writeDateConstructorAsDate)
+   at Newtonsoft.Json.JsonWriter.WriteToken(JsonReader reader, Boolean writeChildren, Boolean writeDateConstructorAsDate)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateJToken(JsonReader reader, JsonContract contract)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at Umbraco.Core.Manifest.ManifestParser.CreateManifests(String[] manifestFileContents) in f:\TeamCity\buildAgent\work\e1a0ddf7a1349eaf\src\Umbraco.Core\Manifest\ManifestParser.cs:line 123
+2013-11-16 16:45:33,013 [25] INFO  Umbraco.Core.PluginManager - [Thread 12] Starting resolution types of Umbraco.Core.PropertyEditors.PropertyEditor
+2013-11-16 16:45:33,026 [25] INFO  Umbraco.Core.PluginManager - [Thread 12] Completed resolution of types of Umbraco.Core.PropertyEditors.PropertyEditor, found 33 (took 12ms)
+2013-11-16 16:45:33,034 [25] ERROR Umbraco.Core.Manifest.ManifestParser - [Thread 12] An error occurred parsing manifest with contents: {
+    propertyEditors: [
+        {
+        alias: "Demo.MyFirstProperty",
+        name: "My First Property",
+        editor: {
+        view: "~/App_Plugins/MyFirstProperty/myfirstproperty.html"
+        },
+        prevalues: {
+            fields: [
+                {
+                    label: "Number of chars",
+                    description: "Enter the number of chars to limit on",
+                    key: "limit",
+                    view: "requiredfield",
+                    validation: [
+                        {
+                            type: "Required" 
+                        }                        
+                    ]
+                }
+            ]
+        }
+        }
+    ]
+    ,
+    javascript: [
+        "~/App_Plugins/MyFirstProperty/myfirstproperty.controller.js""
+    ]
+}
+Newtonsoft.Json.JsonReaderException: After parsing a value an unexpected character was encountered: ". Path 'javascript[0]', line 28, position 70.
+   at Newtonsoft.Json.JsonTextReader.ParsePostValue()
+   at Newtonsoft.Json.JsonTextReader.ReadInternal()
+   at Newtonsoft.Json.JsonTextReader.Read()
+   at Newtonsoft.Json.JsonWriter.WriteToken(JsonReader reader, Int32 initialDepth, Boolean writeChildren, Boolean writeDateConstructorAsDate)
+   at Newtonsoft.Json.JsonWriter.WriteToken(JsonReader reader, Boolean writeChildren, Boolean writeDateConstructorAsDate)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateJToken(JsonReader reader, JsonContract contract)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at Umbraco.Core.Manifest.ManifestParser.CreateManifests(String[] manifestFileContents) in f:\TeamCity\buildAgent\work\e1a0ddf7a1349eaf\src\Umbraco.Core\Manifest\ManifestParser.cs:line 123
+2013-11-16 16:45:33,083 [25] INFO  Umbraco.Core.PluginManager - [Thread 41] Starting resolution types of umbraco.interfaces.ITree
+2013-11-16 16:45:33,089 [25] INFO  Umbraco.Core.PluginManager - [Thread 41] Completed resolution of types of umbraco.interfaces.ITree, found 35 (took 5ms)
+2013-11-16 16:48:16,310 [25] INFO  umbraco.BusinessLogic.Log - [Thread 79] Log scrubbed.  Removed all items older than 2013-09-17 16:48:16
+2013-11-16 16:48:16,310 [25] INFO  Umbraco.Core.UmbracoApplicationBase - [Thread 79] Application shutdown. Reason: BinDirChangeOrDirectoryRename
+2013-11-16 16:48:26,897 [24] INFO  Umbraco.Core.PluginManager - [Thread 1] Determining hash of code files on disk
+2013-11-16 16:48:26,903 [24] INFO  Umbraco.Core.PluginManager - [Thread 1] Hash determined (took 3ms)
+2013-11-16 16:48:26,907 [24] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+2013-11-16 16:48:27,040 [24] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 28 (took 132ms)
+2013-11-16 16:48:27,074 [24] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+2013-11-16 16:48:27,077 [24] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 2ms)
+2013-11-16 16:48:27,077 [24] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyValueConverter
+2013-11-16 16:48:27,080 [24] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyValueConverter, found 13 (took 3ms)
+2013-11-16 16:48:27,086 [24] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+2013-11-16 16:48:27,088 [24] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 4 (took 2ms)
+2013-11-16 16:48:27,088 [24] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+2013-11-16 16:48:27,091 [24] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 28 (took 2ms)
+2013-11-16 16:48:27,093 [24] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+2013-11-16 16:48:27,096 [24] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 3ms)
+2013-11-16 16:48:27,096 [24] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+2013-11-16 16:48:27,099 [24] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 3ms)
+2013-11-16 16:48:27,409 [24] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Web.Trees.TreeController
+2013-11-16 16:48:27,412 [24] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Web.Trees.TreeController, found 4 (took 3ms)
+2013-11-16 16:48:27,418 [24] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of umbraco.interfaces.ITree
+2013-11-16 16:48:27,422 [24] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of umbraco.interfaces.ITree, found 19 (took 3ms)
+2013-11-16 16:48:27,427 [24] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 1] Initializing Examine and binding to business logic events
+2013-11-16 16:48:27,478 [24] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 1] Adding examine event handlers for index providers: 3
+2013-11-16 16:48:27,482 [24] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of umbraco.interfaces.IApplication
+2013-11-16 16:48:27,487 [24] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of umbraco.interfaces.IApplication, found 7 (took 5ms)
+2013-11-16 16:48:28,545 [24] INFO  Umbraco.Core.PluginManager - [Thread 64] Starting resolution types of Umbraco.Web.Trees.TreeController
+2013-11-16 16:48:28,545 [24] INFO  Umbraco.Core.PluginManager - [Thread 64] Completed resolution of types of Umbraco.Web.Trees.TreeController, found 4 (took 0ms)
+2013-11-16 16:48:30,687 [24] INFO  Umbraco.Core.PluginManager - [Thread 66] Starting resolution types of Umbraco.Core.PropertyEditors.PropertyEditor
+2013-11-16 16:48:30,701 [24] INFO  Umbraco.Core.PluginManager - [Thread 66] Completed resolution of types of Umbraco.Core.PropertyEditors.PropertyEditor, found 33 (took 14ms)
+2013-11-16 16:48:30,757 [24] INFO  Umbraco.Core.PluginManager - [Thread 79] Starting resolution types of umbraco.interfaces.ITree
+2013-11-16 16:48:30,763 [24] INFO  Umbraco.Core.PluginManager - [Thread 79] Completed resolution of types of umbraco.interfaces.ITree, found 35 (took 5ms)
+2013-11-16 16:51:29,409 [24] INFO  Umbraco.Core.PluginManager - [Thread 72] Starting resolution types of umbraco.interfaces.ICacheRefresher
+2013-11-16 16:51:30,082 [24] INFO  Umbraco.Core.PluginManager - [Thread 72] Completed resolution of types of umbraco.interfaces.ICacheRefresher, found 17 (took 672ms)
+2013-11-16 16:51:39,876 [24] INFO  Umbraco.Core.PluginManager - [Thread 15] Starting resolution types of Umbraco.Web.Trees.TreeController
+2013-11-16 16:51:39,876 [24] INFO  Umbraco.Core.PluginManager - [Thread 15] Completed resolution of types of Umbraco.Web.Trees.TreeController, found 4 (took 0ms)
+2013-11-16 16:52:19,954 [24] INFO  Umbraco.Core.PluginManager - [Thread 55] Starting resolution types of Umbraco.Web.Trees.TreeController
+2013-11-16 16:52:19,954 [24] INFO  Umbraco.Core.PluginManager - [Thread 55] Completed resolution of types of Umbraco.Web.Trees.TreeController, found 4 (took 0ms)
+2013-11-16 16:52:43,057 [24] INFO  umbraco.BusinessLogic.Log - [Thread 41] Log scrubbed.  Removed all items older than 2013-09-17 16:52:43
+2013-11-16 16:52:43,058 [24] INFO  Umbraco.Core.UmbracoApplicationBase - [Thread 41] Application shutdown. Reason: ConfigurationChange
+2013-11-16 16:52:45,379 [67] INFO  Umbraco.Core.PluginManager - [Thread 44] Determining hash of code files on disk
+2013-11-16 16:52:45,383 [67] INFO  Umbraco.Core.PluginManager - [Thread 44] Hash determined (took 3ms)
+2013-11-16 16:52:45,388 [67] INFO  Umbraco.Core.PluginManager - [Thread 44] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+2013-11-16 16:52:45,515 [67] INFO  Umbraco.Core.PluginManager - [Thread 44] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 28 (took 125ms)
+2013-11-16 16:52:45,540 [67] INFO  Umbraco.Core.PluginManager - [Thread 44] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+2013-11-16 16:52:45,544 [67] INFO  Umbraco.Core.PluginManager - [Thread 44] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 3ms)
+2013-11-16 16:52:45,544 [67] INFO  Umbraco.Core.PluginManager - [Thread 44] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyValueConverter
+2013-11-16 16:52:45,549 [67] INFO  Umbraco.Core.PluginManager - [Thread 44] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyValueConverter, found 13 (took 5ms)
+2013-11-16 16:52:45,552 [67] INFO  Umbraco.Core.PluginManager - [Thread 44] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+2013-11-16 16:52:45,554 [67] INFO  Umbraco.Core.PluginManager - [Thread 44] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 4 (took 2ms)
+2013-11-16 16:52:45,555 [67] INFO  Umbraco.Core.PluginManager - [Thread 44] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+2013-11-16 16:52:45,557 [67] INFO  Umbraco.Core.PluginManager - [Thread 44] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 28 (took 2ms)
+2013-11-16 16:52:45,558 [67] INFO  Umbraco.Core.PluginManager - [Thread 44] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+2013-11-16 16:52:45,561 [67] INFO  Umbraco.Core.PluginManager - [Thread 44] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 3ms)
+2013-11-16 16:52:45,561 [67] INFO  Umbraco.Core.PluginManager - [Thread 44] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+2013-11-16 16:52:45,565 [67] INFO  Umbraco.Core.PluginManager - [Thread 44] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 3ms)
+2013-11-16 16:52:45,800 [67] INFO  Umbraco.Core.PluginManager - [Thread 44] Starting resolution types of umbraco.interfaces.IApplication
+2013-11-16 16:52:45,806 [67] INFO  Umbraco.Core.PluginManager - [Thread 44] Completed resolution of types of umbraco.interfaces.IApplication, found 7 (took 5ms)
+2013-11-16 16:52:45,837 [67] INFO  Umbraco.Core.PluginManager - [Thread 44] Starting resolution types of Umbraco.Web.Trees.TreeController
+2013-11-16 16:52:45,840 [67] INFO  Umbraco.Core.PluginManager - [Thread 44] Completed resolution of types of Umbraco.Web.Trees.TreeController, found 4 (took 2ms)
+2013-11-16 16:52:45,842 [67] INFO  Umbraco.Core.PluginManager - [Thread 44] Starting resolution types of umbraco.interfaces.ITree
+2013-11-16 16:52:45,846 [67] INFO  Umbraco.Core.PluginManager - [Thread 44] Completed resolution of types of umbraco.interfaces.ITree, found 19 (took 4ms)
+2013-11-16 16:52:45,849 [67] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 44] Initializing Examine and binding to business logic events
+2013-11-16 16:52:45,884 [67] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 44] Adding examine event handlers for index providers: 3
+2013-11-16 16:52:46,181 [67] INFO  Umbraco.Core.PluginManager - [Thread 72] Starting resolution types of Umbraco.Web.Trees.TreeController
+2013-11-16 16:52:46,181 [67] INFO  Umbraco.Core.PluginManager - [Thread 72] Completed resolution of types of Umbraco.Web.Trees.TreeController, found 4 (took 0ms)
+2013-11-16 16:52:46,978 [67] INFO  Umbraco.Core.PluginManager - [Thread 41] Starting resolution types of umbraco.interfaces.ITree
+2013-11-16 16:52:47,009 [67] INFO  Umbraco.Core.PluginManager - [Thread 41] Completed resolution of types of umbraco.interfaces.ITree, found 35 (took 31ms)
+2013-11-16 16:52:47,010 [67] INFO  Umbraco.Core.PluginManager - [Thread 61] Starting resolution types of Umbraco.Core.PropertyEditors.PropertyEditor
+2013-11-16 16:52:47,029 [67] INFO  Umbraco.Core.PluginManager - [Thread 61] Completed resolution of types of Umbraco.Core.PropertyEditors.PropertyEditor, found 33 (took 19ms)
+2013-11-16 16:52:47,077 [67] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - [Thread 61] Could not find persisted pre-value for field limitMin
+2013-11-16 16:53:11,403 [67] INFO  Umbraco.Core.PluginManager - [Thread 15] Starting resolution types of umbraco.interfaces.ICacheRefresher
+2013-11-16 16:53:11,409 [67] INFO  Umbraco.Core.PluginManager - [Thread 15] Completed resolution of types of umbraco.interfaces.ICacheRefresher, found 17 (took 6ms)
+2013-11-16 16:53:36,583 [67] INFO  Umbraco.Core.PluginManager - [Thread 73] Starting resolution types of Umbraco.Web.Trees.TreeController
+2013-11-16 16:53:36,583 [67] INFO  Umbraco.Core.PluginManager - [Thread 73] Completed resolution of types of Umbraco.Web.Trees.TreeController, found 4 (took 0ms)
+2013-11-16 16:54:22,051 [67] INFO  umbraco.BusinessLogic.Log - [Thread 61] Log scrubbed.  Removed all items older than 2013-09-17 16:54:22
+2013-11-16 16:54:22,053 [67] INFO  Umbraco.Core.UmbracoApplicationBase - [Thread 61] Application shutdown. Reason: ConfigurationChange
+2013-11-16 16:54:24,995 [71] INFO  Umbraco.Core.PluginManager - [Thread 33] Determining hash of code files on disk
+2013-11-16 16:54:25,002 [71] INFO  Umbraco.Core.PluginManager - [Thread 33] Hash determined (took 3ms)
+2013-11-16 16:54:25,007 [71] INFO  Umbraco.Core.PluginManager - [Thread 33] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+2013-11-16 16:54:25,160 [71] INFO  Umbraco.Core.PluginManager - [Thread 33] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 28 (took 152ms)
+2013-11-16 16:54:25,198 [71] INFO  Umbraco.Core.PluginManager - [Thread 33] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+2013-11-16 16:54:25,201 [71] INFO  Umbraco.Core.PluginManager - [Thread 33] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 3ms)
+2013-11-16 16:54:25,201 [71] INFO  Umbraco.Core.PluginManager - [Thread 33] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyValueConverter
+2013-11-16 16:54:25,205 [71] INFO  Umbraco.Core.PluginManager - [Thread 33] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyValueConverter, found 13 (took 3ms)
+2013-11-16 16:54:25,210 [71] INFO  Umbraco.Core.PluginManager - [Thread 33] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+2013-11-16 16:54:25,214 [71] INFO  Umbraco.Core.PluginManager - [Thread 33] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 4 (took 3ms)
+2013-11-16 16:54:25,214 [71] INFO  Umbraco.Core.PluginManager - [Thread 33] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+2013-11-16 16:54:25,216 [71] INFO  Umbraco.Core.PluginManager - [Thread 33] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 28 (took 2ms)
+2013-11-16 16:54:25,218 [71] INFO  Umbraco.Core.PluginManager - [Thread 33] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+2013-11-16 16:54:25,222 [71] INFO  Umbraco.Core.PluginManager - [Thread 33] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 4ms)
+2013-11-16 16:54:25,223 [71] INFO  Umbraco.Core.PluginManager - [Thread 33] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+2013-11-16 16:54:25,225 [71] INFO  Umbraco.Core.PluginManager - [Thread 33] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 2ms)
+2013-11-16 16:54:25,530 [71] INFO  Umbraco.Core.PluginManager - [Thread 33] Starting resolution types of Umbraco.Web.Trees.TreeController
+2013-11-16 16:54:25,533 [71] INFO  Umbraco.Core.PluginManager - [Thread 33] Completed resolution of types of Umbraco.Web.Trees.TreeController, found 4 (took 3ms)
+2013-11-16 16:54:25,539 [71] INFO  Umbraco.Core.PluginManager - [Thread 33] Starting resolution types of umbraco.interfaces.ITree
+2013-11-16 16:54:25,544 [71] INFO  Umbraco.Core.PluginManager - [Thread 33] Completed resolution of types of umbraco.interfaces.ITree, found 19 (took 4ms)
+2013-11-16 16:54:25,548 [71] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 33] Initializing Examine and binding to business logic events
+2013-11-16 16:54:25,597 [71] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 33] Adding examine event handlers for index providers: 3
+2013-11-16 16:54:25,600 [71] INFO  Umbraco.Core.PluginManager - [Thread 33] Starting resolution types of umbraco.interfaces.IApplication
+2013-11-16 16:54:25,606 [71] INFO  Umbraco.Core.PluginManager - [Thread 33] Completed resolution of types of umbraco.interfaces.IApplication, found 7 (took 5ms)
+2013-11-16 16:57:47,854 [71] INFO  umbraco.content - [Thread 49] Loading content from disk cache...
+2013-11-16 16:57:47,855 [71] WARN  Umbraco.Web.UmbracoModule - [Thread 49] Umbraco has no content
+2013-11-16 16:57:55,508 [71] INFO  Umbraco.Core.PluginManager - [Thread 72] Starting resolution types of Umbraco.Core.Persistence.Mappers.BaseMapper
+2013-11-16 16:57:55,519 [71] INFO  Umbraco.Core.PluginManager - [Thread 72] Completed resolution of types of Umbraco.Core.Persistence.Mappers.BaseMapper, found 20 (took 11ms)
+2013-11-16 16:58:37,769 [71] WARN  Umbraco.Web.UmbracoModule - [Thread 38] Umbraco has no content
+2013-11-16 16:58:44,147 [71] INFO  umbraco.BusinessLogic.Log - [Thread 41] Log scrubbed.  Removed all items older than 2013-09-17 16:58:44
+2013-11-16 16:58:44,148 [71] INFO  Umbraco.Core.UmbracoApplicationBase - [Thread 41] Application shutdown. Reason: ConfigurationChange
+2013-11-16 16:58:44,589 [6] INFO  Umbraco.Core.PluginManager - [Thread 14] Determining hash of code files on disk
+2013-11-16 16:58:44,593 [6] INFO  Umbraco.Core.PluginManager - [Thread 14] Hash determined (took 3ms)
+2013-11-16 16:58:44,597 [6] INFO  Umbraco.Core.PluginManager - [Thread 14] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+2013-11-16 16:58:44,713 [6] INFO  Umbraco.Core.PluginManager - [Thread 14] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 28 (took 116ms)
+2013-11-16 16:58:44,728 [6] INFO  Umbraco.Core.PluginManager - [Thread 14] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+2013-11-16 16:58:44,731 [6] INFO  Umbraco.Core.PluginManager - [Thread 14] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 2ms)
+2013-11-16 16:58:44,731 [6] INFO  Umbraco.Core.PluginManager - [Thread 14] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyValueConverter
+2013-11-16 16:58:44,734 [6] INFO  Umbraco.Core.PluginManager - [Thread 14] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyValueConverter, found 13 (took 3ms)
+2013-11-16 16:58:44,737 [6] INFO  Umbraco.Core.PluginManager - [Thread 14] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+2013-11-16 16:58:44,739 [6] INFO  Umbraco.Core.PluginManager - [Thread 14] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 4 (took 2ms)
+2013-11-16 16:58:44,739 [6] INFO  Umbraco.Core.PluginManager - [Thread 14] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+2013-11-16 16:58:44,742 [6] INFO  Umbraco.Core.PluginManager - [Thread 14] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 28 (took 2ms)
+2013-11-16 16:58:44,742 [6] INFO  Umbraco.Core.PluginManager - [Thread 14] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+2013-11-16 16:58:44,745 [6] INFO  Umbraco.Core.PluginManager - [Thread 14] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 2ms)
+2013-11-16 16:58:44,745 [6] INFO  Umbraco.Core.PluginManager - [Thread 14] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+2013-11-16 16:58:44,747 [6] INFO  Umbraco.Core.PluginManager - [Thread 14] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 2ms)
+2013-11-16 16:58:44,969 [6] INFO  Umbraco.Core.PluginManager - [Thread 14] Starting resolution types of umbraco.interfaces.IApplication
+2013-11-16 16:58:44,974 [6] INFO  Umbraco.Core.PluginManager - [Thread 14] Completed resolution of types of umbraco.interfaces.IApplication, found 7 (took 4ms)
+2013-11-16 16:58:44,993 [6] INFO  Umbraco.Core.PluginManager - [Thread 14] Starting resolution types of Umbraco.Web.Trees.TreeController
+2013-11-16 16:58:44,996 [6] INFO  Umbraco.Core.PluginManager - [Thread 14] Completed resolution of types of Umbraco.Web.Trees.TreeController, found 4 (took 2ms)
+2013-11-16 16:58:44,997 [6] INFO  Umbraco.Core.PluginManager - [Thread 14] Starting resolution types of umbraco.interfaces.ITree
+2013-11-16 16:58:45,001 [6] INFO  Umbraco.Core.PluginManager - [Thread 14] Completed resolution of types of umbraco.interfaces.ITree, found 19 (took 3ms)
+2013-11-16 16:58:45,004 [6] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 14] Initializing Examine and binding to business logic events
+2013-11-16 16:58:45,038 [6] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 14] Adding examine event handlers for index providers: 3
+2013-11-16 16:58:49,369 [6] INFO  umbraco.content - [Thread 55] Loading content from disk cache...
+2013-11-16 16:58:49,370 [6] WARN  Umbraco.Web.UmbracoModule - [Thread 55] Umbraco has no content
+2013-11-16 16:59:04,353 [6] INFO  umbraco.BusinessLogic.Log - [Thread 79] Log scrubbed.  Removed all items older than 2013-09-17 16:59:04
+2013-11-16 16:59:04,354 [6] INFO  Umbraco.Core.UmbracoApplicationBase - [Thread 79] Application shutdown. Reason: ConfigurationChange
+2013-11-16 16:59:04,827 [8] INFO  Umbraco.Core.PluginManager - [Thread 44] Determining hash of code files on disk
+2013-11-16 16:59:04,832 [8] INFO  Umbraco.Core.PluginManager - [Thread 44] Hash determined (took 3ms)
+2013-11-16 16:59:04,836 [8] INFO  Umbraco.Core.PluginManager - [Thread 44] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+2013-11-16 16:59:04,961 [8] INFO  Umbraco.Core.PluginManager - [Thread 44] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 28 (took 124ms)
+2013-11-16 16:59:04,998 [8] INFO  Umbraco.Core.PluginManager - [Thread 44] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+2013-11-16 16:59:05,001 [8] INFO  Umbraco.Core.PluginManager - [Thread 44] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 2ms)
+2013-11-16 16:59:05,001 [8] INFO  Umbraco.Core.PluginManager - [Thread 44] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyValueConverter
+2013-11-16 16:59:05,005 [8] INFO  Umbraco.Core.PluginManager - [Thread 44] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyValueConverter, found 13 (took 3ms)
+2013-11-16 16:59:05,010 [8] INFO  Umbraco.Core.PluginManager - [Thread 44] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+2013-11-16 16:59:05,013 [8] INFO  Umbraco.Core.PluginManager - [Thread 44] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 4 (took 2ms)
+2013-11-16 16:59:05,013 [8] INFO  Umbraco.Core.PluginManager - [Thread 44] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+2013-11-16 16:59:05,015 [8] INFO  Umbraco.Core.PluginManager - [Thread 44] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 28 (took 2ms)
+2013-11-16 16:59:05,017 [8] INFO  Umbraco.Core.PluginManager - [Thread 44] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+2013-11-16 16:59:05,019 [8] INFO  Umbraco.Core.PluginManager - [Thread 44] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 2ms)
+2013-11-16 16:59:05,019 [8] INFO  Umbraco.Core.PluginManager - [Thread 44] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+2013-11-16 16:59:05,022 [8] INFO  Umbraco.Core.PluginManager - [Thread 44] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 2ms)
+2013-11-16 16:59:05,321 [8] INFO  Umbraco.Core.PluginManager - [Thread 44] Starting resolution types of umbraco.interfaces.IApplication
+2013-11-16 16:59:05,667 [8] INFO  Umbraco.Core.PluginManager - [Thread 44] Completed resolution of types of umbraco.interfaces.IApplication, found 7 (took 346ms)
+2013-11-16 16:59:05,736 [8] INFO  Umbraco.Core.PluginManager - [Thread 44] Starting resolution types of Umbraco.Web.Trees.TreeController
+2013-11-16 16:59:06,821 [8] INFO  Umbraco.Core.PluginManager - [Thread 44] Completed resolution of types of Umbraco.Web.Trees.TreeController, found 4 (took 1084ms)
+2013-11-16 16:59:06,828 [8] INFO  Umbraco.Core.PluginManager - [Thread 44] Starting resolution types of umbraco.interfaces.ITree
+2013-11-16 16:59:06,834 [8] INFO  Umbraco.Core.PluginManager - [Thread 44] Completed resolution of types of umbraco.interfaces.ITree, found 19 (took 5ms)
+2013-11-16 16:59:06,839 [8] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 44] Initializing Examine and binding to business logic events
+2013-11-16 16:59:06,892 [8] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 44] Adding examine event handlers for index providers: 3
+2013-11-16 17:02:47,343 [8] INFO  umbraco.content - [Thread 66] Loading content from disk cache...
+2013-11-16 17:02:47,344 [8] WARN  Umbraco.Web.UmbracoModule - [Thread 66] Umbraco has no content
+2013-11-16 17:03:35,287 [8] INFO  Umbraco.Core.PluginManager - [Thread 72] Starting resolution types of Umbraco.Core.Persistence.Mappers.BaseMapper
+2013-11-16 17:03:35,538 [8] INFO  Umbraco.Core.PluginManager - [Thread 72] Completed resolution of types of Umbraco.Core.Persistence.Mappers.BaseMapper, found 20 (took 250ms)
+2013-11-16 17:03:37,345 [8] WARN  Umbraco.Web.UmbracoModule - [Thread 38] Umbraco has no content
+2013-11-16 17:03:49,345 [8] WARN  Umbraco.Web.UmbracoModule - [Thread 66] Umbraco has no content

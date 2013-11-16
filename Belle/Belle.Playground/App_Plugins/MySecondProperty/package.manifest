@@ -1,0 +1,30 @@
+{
+    propertyEditors: [
+        {
+		alias: "Demo.MySecondProperty",
+		name: "My Second Property",
+		editor: {
+		view: "~/App_Plugins/MySecondProperty/mysecondproperty.html"
+		},
+		prevalues: {
+			fields: [
+				{
+					label: "Number of chars",
+					description: "Enter the number of chars to limit on",
+					key: "limit",
+					view: "requiredfield",
+					validation: [
+						{
+							type: "Required" 
+						}						
+					]
+				}
+			]
+		}
+        }
+    ]
+    ,
+    javascript: [
+        '~/App_Plugins/MySecondProperty/mysecondproperty.controller.js'
+    ]
+}

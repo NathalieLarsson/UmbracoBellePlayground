@@ -1,0 +1,30 @@
+{
+    propertyEditors: [
+        {
+        alias: "Demo.MyFirstProperty",
+        name: "My First Property",
+        editor: {
+        view: "~/App_Plugins/MyFirstProperty/myfirstproperty.html"
+        },
+        prevalues: {
+            fields: [
+                {
+                    label: "Number of chars",
+                    description: "Enter the number of chars to limit on",
+                    key: "limit",
+                    view: "requiredfield",
+                    validation: [
+                        {
+                            type: "Required" 
+                        }                        
+                    ]
+                }
+            ]
+        }
+        }
+    ]
+    ,
+    javascript: [
+        "~/App_Plugins/MyFirstProperty/myfirstproperty.controller.js""
+    ]
+}
