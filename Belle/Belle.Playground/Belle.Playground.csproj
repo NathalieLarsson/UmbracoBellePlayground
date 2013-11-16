@@ -212,7 +212,23 @@
   <ItemGroup>
     <Content Include="App_Plugins\MySecondProperty\mysecondproperty.controller.js" />
     <Content Include="App_Plugins\MySecondProperty\mysecondproperty.html" />
+    <Content Include="css\bootstrap-theme.css" />
+    <Content Include="css\bootstrap-theme.min.css" />
+    <Content Include="css\bootstrap.css" />
+    <Content Include="css\bootstrap.min.css" />
+    <Content Include="fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="css\main.css" />
+    <Content Include="css\normalize.css" />
     <Content Include="packages.config" />
+    <Content Include="fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="fonts\glyphicons-halflings-regular.eot" />
+    <None Include="scripts\jquery-1.9.1.intellisense.js" />
+    <Content Include="scripts\bootstrap.js" />
+    <Content Include="scripts\bootstrap.min.js" />
+    <Content Include="scripts\jquery-1.9.1.js" />
+    <Content Include="scripts\jquery-1.9.1.min.js" />
+    <Content Include="scripts\modernizr-2.6.2.js" />
     <Content Include="Views\Web.config" />
     <Content Include="macroScripts\Web.config" />
     <Content Include="config\UrlRewriting.config" />
@@ -241,6 +257,9 @@
     <Content Include="App_Plugins\MySecondProperty\mysecondproperty.controller.min.js.map">
       <DependentUpon>mysecondproperty.controller.js</DependentUpon>
     </Content>
+    <Content Include="scripts\jquery-1.9.1.min.map" />
+    <Content Include="Views\Root.cshtml" />
+    <Content Include="Views\StartPage.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -274,7 +293,6 @@
     <Content Include="bin\x86\sqlceme40.dll" />
     <Content Include="bin\x86\sqlceqp40.dll" />
     <Content Include="bin\x86\sqlcese40.dll" />
-    <Content Include="css\dummy.txt" />
     <Content Include="default.aspx" />
     <Content Include="macroScripts\dummy.txt" />
     <Content Include="masterpages\dummy.txt" />
@@ -285,6 +303,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Views\MacroPartials\" />
+    <Folder Include="Views\Partials\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
