@@ -1322,3 +1322,5 @@ System.MissingMethodException: No parameterless constructor defined for this obj
 2013-11-16 19:04:34,311 [51] INFO  Umbraco.Core.PluginManager - [Thread 33] Starting resolution types of umbraco.interfaces.IApplication
 2013-11-16 19:04:34,315 [51] INFO  Umbraco.Core.PluginManager - [Thread 33] Completed resolution of types of umbraco.interfaces.IApplication, found 7 (took 4ms)
 2013-11-16 19:04:34,362 [51] INFO  umbraco.content - [Thread 79] Loading content from disk cache...
+2013-11-16 19:05:04,225 [51] INFO  Umbraco.Core.PluginManager - [Thread 47] Starting resolution types of Umbraco.Core.Persistence.Mappers.BaseMapper
+2013-11-16 19:05:04,232 [51] INFO  Umbraco.Core.PluginManager - [Thread 47] Completed resolution of types of Umbraco.Core.Persistence.Mappers.BaseMapper, found 20 (took 6ms)
