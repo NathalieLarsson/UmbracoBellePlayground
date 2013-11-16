@@ -1,0 +1,505 @@
+// ==========================================================
+
+// 320 and Up by Andy Clarke
+// Version: 3.0
+// URL: http://stuffandnonsense.co.uk/projects/320andup/
+// Apache License: v2.0. http://www.apache.org/licenses/LICENSE-2.0
+
+// ==========================================================
+
+//=======================================//
+// Quick settings
+//=======================================//
+
+// Twenty margin
+header > .container  > .row,
+.news-list,
+.social,
+.staff-item,
+.quick-navigation{
+	.margin-bottom(16);
+}
+
+// Zero padding
+.main-area,
+.left-area,
+.right-area{
+	padding:0;
+}
+
+// Ten padding
+.staff-pages-main{
+	padding: 10px;
+}
+
+// Block item
+.staff-pages-main,
+.search-form{
+	display: block;
+	overflow: hidden;
+}
+
+.hero-container{
+	position: relative;
+}
+
+//=======================================//
+// Header
+//=======================================//
+header[role="banner"]{
+	padding-top: 20px;
+
+	& > .row{}
+}
+
+.logotype{
+	padding: 0 0 30px 0;
+
+	img{
+		display: block;
+		margin: 0 auto;
+	}
+}
+
+//=======================================//
+// Breadcrumb
+//=======================================//
+ol.breadcrumb{
+	margin:0 0 10px;
+}
+
+
+//=======================================//
+// Quick navigation
+//=======================================//
+
+.quick-navigation{
+	display: block;
+	margin: 0 auto;
+	overflow: hidden;
+	width: 363px;
+
+	ul{
+		margin:0;
+		padding:0;
+
+		li{
+			margin:0;
+			width: 50%;
+			text-align:center; 
+			a{ 
+				color: #fff; 
+				text-transform: uppercase; 
+				.font-size(12);
+				font-family: @altfont;
+
+				padding: 4px 22px;
+
+				&:hover{ background: none; }
+			}
+
+			&.quick-nav-1{ background: @winterDarkBlue; }
+			&.quick-nav-2{ background: @winterGreen; }
+			&.quick-nav-3{ background: @winterOrange; }
+			&.quick-nav-4{ 
+				background: @winterLightBlue; 
+
+				a{ color: @textcolor; }
+			}
+		}
+	}
+}
+
+//=======================================//
+// Hero
+//=======================================//
+
+.hero{
+	position: relative;
+	
+	.hero-content{
+		position: relative;
+	}
+
+	.hero-overlay{
+		position: absolute;
+		left: 7%;
+		top: 7%;
+		width: 86%;
+		background: rgba(255,255,255,.45);
+		padding: 20px;
+
+		h1{ 
+			.font-size(24);
+			margin-bottom: 6px;
+		}
+
+		p{ color: #111;}
+	}
+}
+
+
+//=======================================//
+// Social
+//=======================================//
+
+.social-bar{
+	height: 30px;
+	background: #eee;
+	overflow: hidden;
+
+	.social{
+
+		a{
+			height: 50px;
+			width: 52px;
+			margin:0;
+			padding: 0;
+			display: inline-block;
+			float: left;
+			
+		}
+
+		a.facebook{
+			background: transparent;
+		}
+
+		a.twitter{
+			background: transparent;
+		}
+		a.contact-us{ display:none; }
+	}
+}
+
+.social{
+	background: @winterLightBlue;
+
+	a{
+		height: 50px;
+		width: 52px;
+		margin:0;
+		padding: 11px;
+		display: inline-block;
+		float: left;
+	}
+
+	a.facebook{
+		background: @facebookBlue;
+	}
+
+	a.twitter{
+		background: #00b0ee;
+	}
+
+	a.contact-us{
+		height: 50px;
+		width: auto;
+		float: none;
+		display: inline-block;
+		margin:0;
+		padding: 10px 10px 0;
+		background: @winterLightBlue;
+		display: inline-block;
+		line-height: 2;
+		text-transform: uppercase;
+		text-align: center;
+		.font-size(14);
+		color: @redText;
+	}	
+}
+
+//=======================================//
+// News - Start page
+//=======================================//
+.news-list{
+	padding: 0 15px;
+	.news-item{
+		.h3{
+			color: @redText;
+			.font-size(16);
+			text-transform: none;
+			margin-bottom: 4px;
+		}
+
+		figure{
+			margin-bottom: 6px;
+		}
+
+		p{}
+	}	
+}
+
+//=======================================//
+// Promote pages - Basic
+//=======================================//
+.promote-item{
+	padding: 0;
+	overflow: hidden;
+
+	a:hover{ text-decoration: none; }
+	
+	.promote-item-header{
+		padding: 25px;
+		padding-bottom:0;
+
+		h4{
+			color: @lightText;
+			.font-size(15);
+			letter-spacing: 1px;
+		}
+	}
+
+	.promote-item-content{
+		padding: 25px;
+		padding-top:0;
+
+		p{
+			color: @lightText;
+			.font-size(18);
+			font-family: @altfont;
+			font-weight: 200;
+		}
+	}
+
+	// If image exist
+	&.type-image{
+		max-height: 220px;
+
+		.promote-item-header{
+			width: 100%;
+			float: left;
+			position: relative;
+			padding:0;
+			height: 100%;
+
+			h4{
+				top: 0;
+				display: block;
+				margin:0;
+				padding: 25px;
+				position: absolute;
+				width: 100%;
+				height: 40px;
+
+				//text-align: center;
+				color: @lightText;
+				.font-size(15);
+				letter-spacing: 1px;
+			}
+		}
+
+		.promote-item-content{
+			padding: 0 25px 25px;
+			position: absolute;
+			top: 50px;
+			height: 100%;
+
+			p{
+				color: @lightText;
+				.font-size(18);
+				font-family: @altfont;
+				font-weight: 300;
+			}
+		}
+	}
+}
+
+.theme-1{
+	&.promote-item{
+		background: @winterGreen;
+	}
+	&.type-image .promote-item-header h4{
+		background: @winterGreenAlpha;
+	}
+	&.type-image .promote-item-content {
+		background: @winterGreenAlpha;
+	}
+}
+
+.theme-2{
+	&.promote-item{
+		background: @winterOrange;
+	}
+	&.type-image .promote-item-header h4{
+		background: @winterOrangeAlpha;
+	}
+
+	&.type-image .promote-item-content{
+		background: @winterOrangeAlpha;
+	}
+}
+
+.theme-3{
+	&.promote-item{
+		background: @winterPink;
+	}
+	&.type-image .promote-item-header h4{
+		background: @winterPinkAlpha;
+	}
+	&.type-image .promote-item-content{
+		background: @winterPinkAlpha;
+	}
+}
+
+.theme-4{
+	&.promote-item{
+		background: @winterBlue;
+	}
+	&.type-image .promote-item-header h4{
+		background: @winterBlueAlpha;
+	}
+	&.type-image .promote-item-content{
+		background: @winterBlueAlpha;
+	}
+}
+
+.theme-5{
+	&.promote-item{
+		background: @winterPink;
+	}
+	&.type-image .promote-item-header h4{
+		background: @winterPinkAlpha;
+	}
+	&.type-image .promote-item-content {
+		background: @winterPinkAlpha;
+	}
+}
+
+// Single promote page item
+.promote-page-single{
+	padding: 0px;
+
+	.theme-0{
+		&.promote-item{
+			background: @winterDarkBlue;
+		}
+		&.type-image .promote-item-header h4{
+			background: @winterDarkBlueAlpha;
+		}
+		&.type-image .promote-item-content{
+			background: @winterDarkBlueAlpha;
+		}
+	}
+}
+
+//=======================================//
+// Main area
+//=======================================//
+.main-area{
+	margin-bottom: 20px;
+}
+
+.article-header{
+	background: @winterDarkBlue;
+	height: 50px;
+	margin-bottom: 10px;
+	padding: 15px 20px;
+
+	.article-heading{
+		color: #fff;
+		margin:0;
+	}
+}
+.article-body{
+	padding: 10px;
+	p{
+		font-family: @altfont;
+		margin-bottom: 10px;
+		.font-size(15);
+	}
+
+	p.page-introduction{
+		font-weight: bold;
+	}
+}
+
+
+//=======================================//
+// List banner
+//=======================================//
+.list-banner{
+	padding-top: 20px;
+	padding-bottom: 20px;
+
+	.list-item{
+		border-bottom: 1px solid rgba(88,88,88,.3);
+		padding: 10px 0;
+	}
+
+	p{ margin-bottom: 6px; }
+}
+
+
+//=======================================//
+// Login
+//=======================================//
+.login-box{
+	padding: 0;
+}
+
+.login-box-content{
+	background: #d4dff2;
+	padding:20px;
+	height: 200px;
+
+	h3{
+		.font-size(24);
+	}
+
+	p{ 
+		margin-bottom: 2px;
+		font-weight: bold;
+		.font-size(12);
+	}
+
+	.btn{
+		background: @redText;
+		color: #fff;
+		.rounded(0);
+	}
+}
+
+//=======================================//
+// Footer
+//=======================================//
+
+.secondary-footer .footer-text{
+	padding:0;
+
+	p{ 
+		.font-size(18); 
+		color: @redText; 
+		font-family: @seriffont; 
+		margin: 30px 0;
+		padding: 0 10px;
+		text-align: center;
+	}
+}
+
+footer[role="contentinfo"]{
+	background: @winterDarkBlue;
+
+	.container{ margin-bottom:0; }
+
+	.list-group-footer{
+		overflow: auto;
+
+		.list-group-footer-item{
+			color: @lightText;
+			margin-top: 10px;
+			margin-bottom: 10px;
+			padding-top: 20px;
+			padding-bottom: 20px;
+			border-bottom: 1px solid #44788f;
+
+			&:nth-last-child(1){ border:none; }
+
+			ul{	margin-bottom: 6px; }
+
+			a{ 
+				color: @lightText;
+				.font-size(14);
+			}
+		}
+	}
+}

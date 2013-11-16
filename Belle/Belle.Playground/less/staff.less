@@ -1,0 +1,90 @@
+
+.staff-item{
+	padding: 20px 10px;
+	border-bottom: 1px solid #eee;
+	overflow: hidden;
+	display: block;
+	position: relative;
+
+	.staff-image{
+		overflow: hidden;
+		display: block;
+		float: left;
+		width: 32%;
+
+		img{ border: 1px solid #eee; padding: 2px; }
+	}
+
+	.staff-item-content{
+		float: right;
+		width: 66%;
+
+
+		.fn{ font-weight: bold; margin-bottom: 3px; }
+
+		.title{
+			margin-bottom: 10px;
+
+			p{
+				font-family: @seriffont;
+				color: #777;
+				font-style: italic;
+				margin: 0;
+			}
+		}
+
+		.tel p{ display: inline-block;}
+
+		p{ margin-bottom: 4px; }
+
+		.staff-btn{
+			.font-size(16);
+			line-height: 1.6;
+			margin-top: 10px;
+			position: absolute;
+			bottom: 4px;
+			right: 0;
+			width: 65%;
+
+			span.glyphicon{ display: none; }
+		}
+	}
+}
+
+
+// 480px
+@media only screen and (min-width: 480px) {
+
+}
+
+// 600px
+@media only screen and (min-width: 600px) {
+	.staff-item{
+		.staff-item-content{
+			.staff-btn{
+				.font-size(16);
+				line-height: 1.6;
+				margin-top: 10px;
+
+				span.glyphicon{ display: inline-block; margin-right: 10px; color: #444; }
+			}
+		}
+	}
+}
+
+// 768px
+@media only screen and (min-width: 768px) {
+	.staff-item{
+		min-height: 260px;
+	}
+}
+
+// 992px
+@media only screen and (min-width: 992px) {
+
+}
+
+// 1382px
+@media only screen and (min-width: 1382px) {
+
+}

@@ -1,0 +1,168 @@
+// ==========================================================
+
+// 320 and Up by Andy Clarke
+// Version: 3.0
+// URL: http://stuffandnonsense.co.uk/projects/320andup/
+// Apache License: v2.0. http://www.apache.org/licenses/LICENSE-2.0
+
+// ==========================================================
+
+/* 768 =================================================== */
+
+// 1. ROOT 					==============================
+// 2. TYPOGRAPHY 			==============================
+// 3. COLOUR 				==============================
+// 4. TEXTURE 				==============================
+// 5. ELEMENTS 				==============================
+// 6. LAYOUT 				==============================
+
+.promote-page-main,
+.login-box{
+//	padding:0;
+}
+
+//=======================================//
+// Mid area
+//=======================================//
+.mid-area{
+	background: @winterLightBlueAlpha;
+	border-top: 50px solid @winterDarkBlue;
+	height: 100%;
+}
+
+//=======================================//
+// Hero
+//=======================================//
+
+.hero{
+	position: relative;
+	height: 530px;
+	overflow: hidden;
+
+	.hero-content{
+		position: relative;
+	}
+
+	.hero-overlay{
+		position: absolute;
+		left: 20px;
+		top: 20px;
+		width: 280px;
+		background: rgba(255,255,255,.45);
+		padding: 20px;
+
+		h1{ 
+			.font-size(24);
+			margin-bottom: 6px;
+		}
+
+		p{ color: #111;}
+	}
+}
+
+//=======================================//
+// Main area
+//=======================================//
+.main-area{
+	margin-bottom: 20px;
+}
+
+.article-header{
+	background: @winterDarkBlue;
+	height: 50px;
+	margin-bottom: 10px;
+	padding: 15px 20px;
+	margin-right: -15px;
+
+	.article-heading{
+		color: #fff;
+		margin:0;
+	}
+}
+
+.article-body{
+	padding: 10px 20px 0 0;
+	p{
+		font-family: @altfont;
+		margin-bottom: 10px;
+		.font-size(15);
+	}
+
+	p.page-introduction{
+		font-weight: bold;
+	}
+}
+
+
+//=======================================//
+// Promote pages - Basic
+//=======================================//
+.promote-item{
+	height: 200px;
+
+	.promote-item-content{
+		padding: 25px;
+		padding-top:0;
+
+		p{ .font-size(18); .margin-bottom(0); }
+	}
+
+	// If image exist
+	&.type-image{
+		.promote-item-header{
+			width: 50%;
+
+			h4{
+				top: auto;
+				bottom: 0;
+				height: auto;
+				text-align: center;
+				padding: 14px 25px;
+			}
+		}
+
+		.promote-item-content{
+			width: 50%;
+			top: auto;
+			float: right;
+			position: relative;
+			padding: 25px;
+
+			p{ .font-size(16); }
+		}
+	}
+}
+
+//=======================================//
+// Footer
+//=======================================//
+
+.secondary-footer .footer-text{
+	padding:0;
+
+	p{ 
+		.font-size(26); 
+		color: @redText; 
+		font-family: @seriffont; 
+		margin: 30px 0;
+		padding: 0 70px; 
+	}
+}
+
+footer[role="contentinfo"]{
+	.list-group-footer{
+		.list-group-footer-item{
+			//border-right: 1px solid #44788f;
+			//border-bottom: 0;
+
+			&:nth-last-child(1){ border-bottom: 1px solid #44788f; }
+		}
+	}
+}
+
+
+
+
+// 7. VENDOR-SPECIFIC 		==============================
+// 8. MODERNIZR 			==============================
+// 9. TEMPLATE SPECIFICS 	==============================

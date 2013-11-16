@@ -1,0 +1,91 @@
+// ==========================================================
+
+// 320 and Up by Andy Clarke
+// Version: 3.0
+// URL: http://stuffandnonsense.co.uk/projects/320andup/
+// Apache License: v2.0. http://www.apache.org/licenses/LICENSE-2.0
+
+// ==========================================================
+
+/* 992 =================================================== */
+
+// 1. ROOT 					==============================
+// 2. TYPOGRAPHY 			==============================
+// 3. COLOUR 				==============================
+// 4. TEXTURE 				==============================
+// 5. ELEMENTS 				==============================
+// 6. LAYOUT 				==============================
+// 7. VENDOR-SPECIFIC 		==============================
+// 8. MODERNIZR 			==============================
+// 9. TEMPLATE SPECIFICS 	==============================
+
+.left-area,
+.right-area{
+	padding:0;
+	max-height: 730px;
+}
+
+.hero{
+	position: relative;
+	
+	.hero-content{
+		position: relative;
+	}
+
+	.hero-overlay{
+		position: absolute;
+		left: 20px;
+		top: 20px;
+		width: 280px;
+		background: rgba(255,255,255,.45);
+		padding: 20px;
+	}
+}
+
+.logotype img{
+	margin: 0;
+}
+
+//=======================================//
+// Quick navigation
+//=======================================//
+
+.quick-navigation{
+	display: block;
+	margin: 0 0 10px 0;
+	overflow: hidden;
+	width: auto;
+
+	ul li{
+		width: auto;
+		text-align: left;
+
+		a{ 
+			color: #fff; 
+			text-transform: uppercase; 
+			.font-size(12);
+			font-family: @altfont;
+			padding: 4px 24px;
+		}
+	}
+}
+
+
+//=======================================//
+// Footer
+//=======================================//
+
+footer[role="contentinfo"]{
+	.list-group-footer{
+		.list-group-footer-item{
+			border-right: 1px solid #44788f;
+			border-bottom: 0;
+		
+			&.col-sm-6:nth-child(2){
+				border-right: 1px solid #44788f;
+			}
+
+			&:nth-last-child(1){ border-bottom: 0; }
+		}
+	}
+}

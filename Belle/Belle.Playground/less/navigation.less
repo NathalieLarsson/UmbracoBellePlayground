@@ -1,0 +1,395 @@
+//=======================================//
+// Main navigation
+//=======================================//
+.nav{
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+
+.nav-toggler{
+	background: @winterGreen;
+	position: relative;
+	padding: 5px 0 5px 40px;
+	padding: 0.8rem 0 0.8rem 4rem;
+	.font-size(18);
+	color: #fff;
+
+	.nav-toggler-divider{
+		display: none;
+		padding: 0;	
+		text-indent: -9999px;
+	}
+
+	.nav-toggler-btn{
+		display: inline-block;
+		padding: 0 5px;
+		padding: 0 0.5rem;
+	}
+
+	.nav-toggler-main{
+		display: block;
+		position: relative;
+
+		border-left: 1px solid #008b5a;
+		border-top: none;
+		border-bottom: none;
+		padding-left: 10px;
+		padding-left: 1rem;
+
+		.glyphicon{
+			position: absolute;
+			right: 8px;
+			right: 0.8rem;
+			//line-height: 1.35;
+		}
+	}
+
+	.nav-toggler-more{
+		position: absolute;
+		right:0;
+		top: 0;
+		height: 24px;
+		width: 30px;
+		width: 3rem;
+		padding: 5px;
+		padding: 0.5rem;
+		text-align: center;
+	}
+
+	.nav-toggler-home{
+		width: 13px;
+		width: 1.25rem;
+		position: absolute;
+		left: 5px;
+		top: 4px;
+		height: 24px;
+		width: 30px;
+		width: 3rem;
+		padding: 5px;
+		padding: 0.5rem;
+		text-align: center;
+
+		span.ir{
+			display: inline-block;
+			text-indent: -9999px;
+			height: 0;
+		}
+	}
+
+	a{
+		color: #fff;
+		&:hover,&:active,&:visited,&:focus{
+			color: #fff;
+			text-decoration: none;
+		}
+
+	}
+
+	.divider{
+		display: inline-block;
+		line-height: 21px;
+		vertical-align: top;
+		color: #fff;
+		font-weight: bold;
+
+		.icon-divider {
+			display: inline-block;
+			width: 2px;
+			height: 18px;
+			background-color: #fff;
+			.border-radius(1px);
+			color: #fff;
+			.box-shadow(0 1px 0 fade(#fff,25%));
+		}
+	}
+}
+
+.toggle-subnav-btn{
+	position: absolute;
+	right: 0;
+	top: 0;
+	padding: 12px;
+	background: transparent;
+	border: none;
+
+	span.glyphicon{
+		.font-size(12);
+		color: #fff;
+	}
+}
+
+.navbar-collapse{
+	padding:0;
+	border-top:0;
+}
+
+.navbar-collapse,
+.navbar-collapse.collapse {
+	overflow: hidden;
+	height: 0;
+
+	&.in{
+		height: auto;
+	}
+}
+
+.nav-main{
+	.nav-list{
+		list-style-type: none;
+		margin: 0;
+		padding: 0;
+		background-color: #009359;
+		border: 1px solid #009359;
+	}
+
+	.nav-list-item{
+		background-color: @winterGreen;
+		margin-bottom: 1px;
+
+		a{
+			color: #fff;
+			display: block;
+			padding: 1rem;
+			text-transform: uppercase;
+			.font-size(14);
+			font-family: @altfont;
+
+			&:hover,
+			&:active{
+				color: #fff;
+				text-decoration: none;
+				color: @redText;
+				background: none;
+			}
+
+			&:visited{
+				color: #fff;
+			}
+		}
+
+		.nav-sub-list{
+			overflow: hidden;
+			height: 0;
+			background-color: #fff;
+
+			&.in{
+				height: auto;
+			}
+
+			li{
+				border: none;
+				border-top: 1px solid #009359;
+				background-color: #eee;
+				position: relative;
+
+				a{
+					color: #666666;
+					display: block;
+					font-style: bold;
+					padding: 10px 20px 10px 10px;
+					padding: 1rem;
+					.font-size(13);
+					text-decoration: none;
+
+					&:hover,
+					&:active{
+						color: #666666;
+						background-color: #f7f7f7;
+					}
+
+					&:visited{
+						color: #666666;
+					}
+				}
+
+				&.active > a{
+					font-weight: bold;
+				}
+
+				ul{
+					height: 0;
+					overflow: hidden;
+
+					li{
+						font-weight: normal;
+						background-color: #fff;
+						padding-left: 14px;
+
+						ul{
+							height: 0;
+							overflow: hidden;
+
+							li{
+								font-weight: normal;
+								background-color: #fff;
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+}
+
+.navbar-collapse{
+	max-height: none;
+}
+
+
+
+// 480px
+@media only screen and (min-width: 480px) {
+
+}
+
+// 600px
+@media only screen and (min-width: 600px) {
+
+}
+
+// 768px
+@media only screen and (min-width: 768px) {
+	.navbar-collapse.collapse {
+		display: none !important;
+		height: 0 !important;
+		padding-bottom: 0;
+		overflow: hidden !important;
+	}
+}
+
+// 992px
+@media only screen and (min-width: 992px) {
+
+	.navbar-collapse.collapse {
+		display: block !important;
+		height: auto !important;
+		padding-bottom: 0;
+		overflow: visible !important;
+	}
+	
+	.main-navigation{
+		margin: 0;
+		padding: 0;
+
+		.nav-list{
+			background: transparent;
+			border: 0;
+		}
+
+		.nav > li.nav-list-item{
+			padding:0;
+			border:none;
+			background: transparent;
+			float: left;
+			position:relative;
+
+			// Second
+			.second-nav{
+				position: absolute;
+				background: #fff;
+				display: block;
+				z-index: 9999;
+				width: 240px;
+				.rounded(5px);
+				border: 1px solid #eee;
+				top: 33px;
+
+				&.collapse{
+					border:0;
+				}
+
+				li{ width: 100%; }
+
+				a{ width: 100%;}
+			}
+
+			// Third
+			.third-nav{
+				display: block;
+				border: 1px solid #eee;
+
+				&.collapse{
+					border:0;
+				}
+
+				li.nav-list-item{ padding:0; width: 100%; }
+
+				a{ width: 100%; padding: 0.6rem 1rem 0.6rem 2.4rem; }
+			}
+
+			// All active links
+			& > a.active{
+				color: @redText;
+			}
+		}
+
+		.nav > li > a{
+			font-family: @altfont;
+			.font-size(14);
+			color: @darkText;
+			text-transform: uppercase;
+			padding: 5px 10px 5px 10px;
+			margin-right: 20px;
+
+			&:hover > a,
+			&:active > a{
+				text-decoration: none;
+				color: @redText;
+				background: none;
+			}
+
+			&:visited{
+				color: @darkText;
+			}
+		}
+
+		.nav > li > a:hover {
+			background-color: transparent;
+		}
+
+		.nav-title{	display: block; margin-bottom: 0; }
+	}
+
+	.sub-navigation .subnav-collapse{
+		height: auto;
+		display: block;
+	}
+
+	.toggle-subnav-btn.toggle-btn{
+		border: 1px solid #888;
+		.rounded(3px);
+		display: block;
+		width: 18px;
+		height: 16px;
+		padding:0;
+		top: 8px;
+		right: 6px;
+
+		.glyphicon{
+			color: #999;
+			.font-size(9);
+			padding: 1px 4px 4px 3px;
+			margin: 0;
+			vertical-align: top;
+		}
+	}
+
+	.second-nav{
+
+		& > .nav-list-item > .toggle-subnav-btn{
+			display: none;
+		}
+
+		& > .nav-list-item > .third-nav.nav-sub-list{
+			height: auto;
+			display: block;
+		}
+	}
+
+}
+
+// 1382px
+@media only screen and (min-width: 1382px) {
+
+}

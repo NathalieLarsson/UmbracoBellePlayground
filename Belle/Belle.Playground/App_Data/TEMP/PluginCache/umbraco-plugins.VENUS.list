@@ -23,6 +23,7 @@
     <add type="Umbraco.Core.Persistence.Mappers.UserTypeMapper, Umbraco.Core, Version=1.0.5067.16273, Culture=neutral, PublicKeyToken=null" />
   </baseType>
   <baseType type="umbraco.interfaces.IApplicationStartupHandler" resolutionType="FindAllTypes">
+    <add type="umbraco.editorControls.PickerRelations.PickerRelationsEventHandler, umbraco.editorControls, Version=1.0.5057.26293, Culture=neutral, PublicKeyToken=null" />
     <add type="Umbraco.Web.Cache.CacheRefresherEventHandler, umbraco, Version=1.0.5067.16279, Culture=neutral, PublicKeyToken=null" />
     <add type="Umbraco.Web.Models.Mapping.LogModelMapper, umbraco, Version=1.0.5067.16279, Culture=neutral, PublicKeyToken=null" />
     <add type="Umbraco.Web.Models.Mapping.MacroModelMapper, umbraco, Version=1.0.5067.16279, Culture=neutral, PublicKeyToken=null" />
@@ -48,15 +49,11 @@
     <add type="umbraco.presentation.nodeFactory.UmbracoSiteMapProviderAccessUpdate, umbraco, Version=1.0.5067.16279, Culture=neutral, PublicKeyToken=null" />
     <add type="umbraco.presentation.EnsureSystemPathsApplicationStartupHandler, umbraco, Version=1.0.5067.16279, Culture=neutral, PublicKeyToken=null" />
     <add type="umbraco.presentation.umbraco.Search.ExamineEvents, umbraco, Version=1.0.5067.16279, Culture=neutral, PublicKeyToken=null" />
-    <add type="umbraco.editorControls.PickerRelations.PickerRelationsEventHandler, umbraco.editorControls, Version=1.0.5057.26293, Culture=neutral, PublicKeyToken=null" />
     <add type="umbraco.BusinessLogic.ApplicationRegistrar, businesslogic, Version=1.0.5067.16275, Culture=neutral, PublicKeyToken=null" />
     <add type="umbraco.BusinessLogic.ApplicationTreeRegistrar, businesslogic, Version=1.0.5067.16275, Culture=neutral, PublicKeyToken=null" />
   </baseType>
   <baseType type="Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter" resolutionType="FindAllTypes" />
   <baseType type="Umbraco.Core.PropertyEditors.IPropertyValueConverter" resolutionType="FindAllTypes">
-    <add type="Umbraco.Web.PropertyEditors.ValueConverters.MarkdownEditorValueConverter, umbraco, Version=1.0.5067.16279, Culture=neutral, PublicKeyToken=null" />
-    <add type="Umbraco.Web.PropertyEditors.ValueConverters.TextStringValueConverter, umbraco, Version=1.0.5067.16279, Culture=neutral, PublicKeyToken=null" />
-    <add type="Umbraco.Web.PropertyEditors.ValueConverters.RteMacroRenderingValueConverter, umbraco, Version=1.0.5067.16279, Culture=neutral, PublicKeyToken=null" />
     <add type="Umbraco.Core.PropertyEditors.PropertyValueConverterBase, Umbraco.Core, Version=1.0.5067.16273, Culture=neutral, PublicKeyToken=null" />
     <add type="Umbraco.Core.PropertyEditors.ValueConverters.IntegerValueConverter, Umbraco.Core, Version=1.0.5067.16273, Culture=neutral, PublicKeyToken=null" />
     <add type="Umbraco.Core.PropertyEditors.ValueConverters.JsonValueConverter, Umbraco.Core, Version=1.0.5067.16273, Culture=neutral, PublicKeyToken=null" />
@@ -67,6 +64,9 @@
     <add type="Umbraco.Core.Models.PublishedContent.PublishedPropertyType+CompatConverter, Umbraco.Core, Version=1.0.5067.16273, Culture=neutral, PublicKeyToken=null" />
     <add type="Umbraco.Core.PropertyEditors.ValueConverters.DatePickerValueConverter, Umbraco.Core, Version=1.0.5067.16273, Culture=neutral, PublicKeyToken=null" />
     <add type="Umbraco.Core.PropertyEditors.ValueConverters.YesNoValueConverter, Umbraco.Core, Version=1.0.5067.16273, Culture=neutral, PublicKeyToken=null" />
+    <add type="Umbraco.Web.PropertyEditors.ValueConverters.MarkdownEditorValueConverter, umbraco, Version=1.0.5067.16279, Culture=neutral, PublicKeyToken=null" />
+    <add type="Umbraco.Web.PropertyEditors.ValueConverters.TextStringValueConverter, umbraco, Version=1.0.5067.16279, Culture=neutral, PublicKeyToken=null" />
+    <add type="Umbraco.Web.PropertyEditors.ValueConverters.RteMacroRenderingValueConverter, umbraco, Version=1.0.5067.16279, Culture=neutral, PublicKeyToken=null" />
   </baseType>
   <baseType type="Umbraco.Web.Mvc.SurfaceController" resolutionType="FindAllTypes">
     <add type="Umbraco.Web.Controllers.UmbProfileController, umbraco, Version=1.0.5067.16279, Culture=neutral, PublicKeyToken=null" />
@@ -205,7 +205,6 @@
     <add type="Umbraco.Web.Cache.UserTypeCacheRefresher, umbraco, Version=1.0.5067.16279, Culture=neutral, PublicKeyToken=null" />
   </baseType>
   <baseType type="Umbraco.Core.PropertyEditors.PropertyEditor" resolutionType="FindAllTypes">
-    <add type="Umbraco.Core.PropertyEditors.PropertyEditor, Umbraco.Core, Version=1.0.5067.16273, Culture=neutral, PublicKeyToken=null" />
     <add type="Umbraco.Web.PropertyEditors.EmailAddressPropertyEditor, umbraco, Version=1.0.5067.16279, Culture=neutral, PublicKeyToken=null" />
     <add type="Umbraco.Web.PropertyEditors.ListViewPropertyEditor, umbraco, Version=1.0.5067.16279, Culture=neutral, PublicKeyToken=null" />
     <add type="Umbraco.Web.PropertyEditors.MacroContainerPropertyEditor, umbraco, Version=1.0.5067.16279, Culture=neutral, PublicKeyToken=null" />
@@ -238,6 +237,7 @@
     <add type="Umbraco.Web.PropertyEditors.TextAreaPropertyEditor, umbraco, Version=1.0.5067.16279, Culture=neutral, PublicKeyToken=null" />
     <add type="Umbraco.Web.PropertyEditors.TextboxPropertyEditor, umbraco, Version=1.0.5067.16279, Culture=neutral, PublicKeyToken=null" />
     <add type="Umbraco.Web.PropertyEditors.TrueFalsePropertyEditor, umbraco, Version=1.0.5067.16279, Culture=neutral, PublicKeyToken=null" />
+    <add type="Umbraco.Core.PropertyEditors.PropertyEditor, Umbraco.Core, Version=1.0.5067.16273, Culture=neutral, PublicKeyToken=null" />
   </baseType>
   <baseType type="umbraco.interfaces.IAction" resolutionType="FindAllTypes">
     <add type="umbraco.BusinessLogic.Actions.PlaceboAction, cms, Version=1.0.5067.16276, Culture=neutral, PublicKeyToken=null" />
