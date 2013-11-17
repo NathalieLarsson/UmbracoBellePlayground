@@ -1,26 +1,48 @@
 {
     propertyEditors: [
         {
-		alias: "Demo.MySecondProperty",
-		name: "My Second Property",
-		editor: {
-		view: "~/App_Plugins/MySecondProperty/mysecondproperty.html"
-		},
-		prevalues: {
-			fields: [
-				{
-					label: "Number of chars",
-					description: "Enter the number of chars to limit on",
-					key: "limit",
-					view: "requiredfield",
-					validation: [
-						{
-							type: "Required" 
-						}						
-					]
-				}
-			]
-		}
+			alias: "Demo.MySecondProperty",
+			name: "My Second Property",
+			editor: {
+				view: "~/App_Plugins/MySecondProperty/mysecondproperty.html"
+			},
+			prevalues: {
+				fields: [
+					{
+						label: "Tree picker",
+						description: "Choose start node",
+						key: "startNode",
+						view: "nodetype",
+						validation: [
+							{
+								type: "Required" 
+							}						
+						]
+					},
+					{
+						label: "Max number of items",
+						description: "Enter the maximum number of item, leave blank if there aren't a limit",
+						key: "maxlimit",
+						view: "number",
+						validation: [
+							{
+								type: "Required" 
+							}						
+						]
+					},
+					{
+						label: "Min number of items",
+						description: "Enter the minimum number of items, leave blank if there aren't a limit",
+						key: "minlimit",
+						view: "number",
+						validation: [
+							{
+								type: "Required" 
+							}						
+						]
+					}
+				]
+			}
         }
     ]
     ,

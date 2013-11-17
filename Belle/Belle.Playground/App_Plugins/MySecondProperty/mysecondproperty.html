@@ -1,10 +1,16 @@
-<div ng-controller="Demo.MySecondProperty">
-	<span ng-if="model.config.limit >= 100">
-		<textarea ng-model="model.value" ng-change="limitChars()" rows="10" class="umb-editor umb-textarea textstring"></textarea>
-	</span>
-	<span ng-if="model.config.limit < 100">
-		<input ng-model="model.value" ng-change="limitChars()" type="text" class="umb-editor umb-textstring textstring" />
-	</span>
-	<br />
-	<span ng-bind="info"></span>
+<div class="umb-editor umb-mediapicker" ng-controller="Demo.MySecondPropertyController">
+
+	<ul class="thumbnails umb-thumbnails">
+		<li class="umb-thumbnail thumbnail">
+			<a href="#" class="add-link" ng-click="add()" prevent-default>
+				<i class="icon icon-add large"></i>
+			</a>
+		</li>
+
+		<li class="umb-thumbnail thumbnail span3" ng-repeat="image in images">
+			<a href class="picked-image" ng-click="remove($index)">
+				<img ng-src="{{image.src}}" alt="">
+			</a>
+		</li>
+	</ul>
 </div>

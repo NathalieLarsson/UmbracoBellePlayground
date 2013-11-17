@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Belle.Playground", "Belle.Playground\Belle.Playground.csproj", "{75A3DBF8-D711-4205-8D49-C5776F333657}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoName.Logic", "NoName.Logic\NoName.Logic.csproj", "{4BC38236-F750-4194-B211-744DBF11C2C7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{75A3DBF8-D711-4205-8D49-C5776F333657}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{75A3DBF8-D711-4205-8D49-C5776F333657}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{75A3DBF8-D711-4205-8D49-C5776F333657}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BC38236-F750-4194-B211-744DBF11C2C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BC38236-F750-4194-B211-744DBF11C2C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BC38236-F750-4194-B211-744DBF11C2C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BC38236-F750-4194-B211-744DBF11C2C7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

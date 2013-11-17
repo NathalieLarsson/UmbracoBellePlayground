@@ -1,5 +1,5 @@
 ﻿angular.module("umbraco")
-    .controller("Demo.CharLimitEditorController",
+    .controller("Demo.MyFirstPropertyController",
     function ($scope) {
     	$scope.limitChars = function () {
     		var limit = parseInt($scope.model.config.limit);
